@@ -1,0 +1,3774 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7574888,
+          61.4562894
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Akrar",
+        "name_en": "",
+        "population": "15",
+        "osm_id": 29023724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5798985,
+          62.2529059
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Ánirnar",
+        "name_en": "",
+        "population": "49",
+        "osm_id": 29023725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5362969,
+          62.2554013
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Árnafjørður",
+        "name_en": "",
+        "population": "65",
+        "osm_id": 29023727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3714549,
+          62.087978
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Bøur",
+        "name_en": "",
+        "population": "66",
+        "osm_id": 29023728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6764193,
+          61.784302
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Dalur",
+        "name_en": "",
+        "population": "40",
+        "osm_id": 29023729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52893,
+          62.2868903
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Depil",
+        "name_en": "",
+        "population": "5",
+        "osm_id": 29023730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.754486,
+          61.6853223
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Stóra Dímun",
+        "name_en": "",
+        "population": "4",
+        "osm_id": 29023731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0910428,
+          62.2996078
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Eiði",
+        "name_en": "",
+        "population": "701",
+        "osm_id": 29023732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9118325,
+          62.2822792
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Elduvík",
+        "name_en": "",
+        "population": "14",
+        "osm_id": 29023733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8792705,
+          61.5246866
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Fámjin",
+        "name_en": "",
+        "population": "72",
+        "osm_id": 29023734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7752699,
+          61.5468719
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Froðba",
+        "name_en": "",
+        "population": "263",
+        "osm_id": 29023735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8133219,
+          62.2438445
+        ]
+      },
+      "properties": {
+        "type": "town",
+        "name": "Fuglafjørður",
+        "name_en": "",
+        "population": "1603",
+        "osm_id": 29023736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9315162,
+          62.2364899
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Funningsfjørður",
+        "name_en": "",
+        "population": "51",
+        "osm_id": 29023737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9663444,
+          62.28707
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Funningur",
+        "name_en": "",
+        "population": "46",
+        "osm_id": 29023738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4360093,
+          62.109738
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Gásadalur",
+        "name_en": "",
+        "population": "14",
+        "osm_id": 29023739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7240054,
+          62.1283603
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Glyvrar",
+        "name_en": "",
+        "population": "481",
+        "osm_id": 29023740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9430295,
+          62.3257427
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Gjógv",
+        "name_en": "",
+        "population": "22",
+        "osm_id": 29023741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7470683,
+          62.1925148
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Gøtugjógv",
+        "name_en": "",
+        "population": "54",
+        "osm_id": 29023742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7757013,
+          62.1760277
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Undir Gøtueiði",
+        "name_en": "",
+        "population": "33",
+        "osm_id": 29023743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6062861,
+          62.2737604
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Haraldssund",
+        "name_en": "",
+        "population": "72",
+        "osm_id": 29023744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0940268,
+          62.2758977
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Haldórsvík",
+        "name_en": "",
+        "population": "115",
+        "osm_id": 29023745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8451357,
+          62.2629891
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hellurnar",
+        "name_en": "",
+        "population": "10",
+        "osm_id": 29023746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2756075,
+          62.3295945
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hattarvík",
+        "name_en": "",
+        "population": "18",
+        "osm_id": 29023747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9434008,
+          62.1528097
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hósvík",
+        "name_en": "",
+        "population": "328",
+        "osm_id": 29023748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8830509,
+          61.9556236
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hestur",
+        "name_en": "",
+        "population": "15",
+        "osm_id": 29023749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7557422,
+          61.5069357
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hov",
+        "name_en": "",
+        "population": "106",
+        "osm_id": 29023751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6796208,
+          61.8098896
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Húsavík",
+        "name_en": "",
+        "population": "62",
+        "osm_id": 29023752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6971214,
+          62.2649121
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Húsar",
+        "name_en": "",
+        "population": "41",
+        "osm_id": 29023753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0362975,
+          62.18701
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hvalvík",
+        "name_en": "",
+        "population": "260",
+        "osm_id": 29023754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9568338,
+          61.6006281
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hvalba",
+        "name_en": "",
+        "population": "567",
+        "osm_id": 29023755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7599367,
+          62.1395291
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Innan Glyvur",
+        "name_en": "",
+        "population": "85",
+        "osm_id": 29023756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8314257,
+          62.0600805
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kaldbak",
+        "name_en": "",
+        "population": "254",
+        "osm_id": 29023757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5201323,
+          62.2979383
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hvannasund",
+        "name_en": "",
+        "population": "257",
+        "osm_id": 29023758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7726004,
+          62.0446585
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hvítanes",
+        "name_en": "",
+        "population": "105",
+        "osm_id": 29023759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7934063,
+          61.9537078
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kirkjubøur",
+        "name_en": "",
+        "population": "74",
+        "osm_id": 29023760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5837755,
+          62.2254921
+        ]
+      },
+      "properties": {
+        "type": "town",
+        "name": "Klaksvík",
+        "name_en": "",
+        "population": "5116",
+        "osm_id": 29023761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9109085,
+          62.0657296
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kaldbaksbotnur",
+        "name_en": "",
+        "population": "7",
+        "osm_id": 29023762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3163367,
+          62.318519
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kirkja",
+        "name_en": "",
+        "population": "29",
+        "osm_id": 29023763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6700328,
+          62.292941
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kunoy",
+        "name_en": "",
+        "population": "79",
+        "osm_id": 29023764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0763835,
+          62.1196164
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kvívík",
+        "name_en": "",
+        "population": "408",
+        "osm_id": 29023765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9024201,
+          62.1173938
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kollafjørður",
+        "name_en": "",
+        "population": "816",
+        "osm_id": 29023766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9676949,
+          61.9861763
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Koltur",
+        "name_en": "",
+        "population": "0",
+        "osm_id": 29023767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7078979,
+          62.2096076
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Leirvík",
+        "name_en": "",
+        "population": "1063",
+        "osm_id": 29023768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0408556,
+          62.1170005
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Leynar",
+        "name_en": "",
+        "population": "116",
+        "osm_id": 29023769
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7101493,
+          62.1421017
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Lamba",
+        "name_en": "",
+        "population": "150",
+        "osm_id": 29023770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0509532,
+          62.2334636
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Langasandur",
+        "name_en": "",
+        "population": "44",
+        "osm_id": 29023771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7660849,
+          62.3351893
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Mikladalur",
+        "name_en": "",
+        "population": "27",
+        "osm_id": 29023772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1922036,
+          62.0479548
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Miðvágur",
+        "name_en": "",
+        "population": "1147",
+        "osm_id": 29023773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7703364,
+          61.44311
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Lopra",
+        "name_en": "",
+        "population": "69",
+        "osm_id": 29023774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0614285,
+          62.2669394
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Ljósá",
+        "name_en": "",
+        "population": "32",
+        "osm_id": 29023775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7195272,
+          62.0778077
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Nes",
+        "name_en": "",
+        "population": "365",
+        "osm_id": 29023777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6476479,
+          62.1042514
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Mykines",
+        "name_en": "",
+        "population": "13",
+        "osm_id": 29023778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9850549,
+          62.1903914
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Oyri",
+        "name_en": "",
+        "population": "181",
+        "osm_id": 29023780
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8540751,
+          62.2771673
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Oyndarfjørður",
+        "name_en": "",
+        "population": "120",
+        "osm_id": 29023781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7419219,
+          62.2009315
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Norðragøta",
+        "name_en": "",
+        "population": "637",
+        "osm_id": 29023782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5435779,
+          62.2133844
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Norðoyri",
+        "name_en": "",
+        "population": "151",
+        "osm_id": 29023783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7216674,
+          62.1083979
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Runavík",
+        "name_en": "",
+        "population": "590",
+        "osm_id": 29023785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6820581,
+          62.1074435
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Rituvík",
+        "name_en": "",
+        "population": "345",
+        "osm_id": 29023786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7462964,
+          61.4819591
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Porkeri",
+        "name_en": "",
+        "population": "325",
+        "osm_id": 29023787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.928838,
+          61.6341766
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Sandvík",
+        "name_en": "",
+        "population": "67",
+        "osm_id": 29023788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.877888,
+          62.160065
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Selatrað",
+        "name_en": "",
+        "population": "43",
+        "osm_id": 29023789
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8573263,
+          62.1957206
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skálafjørður",
+        "name_en": "",
+        "population": "132",
+        "osm_id": 29023790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.664032,
+          61.8302676
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skálavík",
+        "name_en": "",
+        "population": "154",
+        "osm_id": 29023791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7202052,
+          62.1189157
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Saltangará",
+        "name_en": "",
+        "population": "1195",
+        "osm_id": 29023792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7438333,
+          62.1080633
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Saltnes",
+        "name_en": "",
+        "population": "162",
+        "osm_id": 29023793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1510714,
+          62.0544766
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Sandavágur",
+        "name_en": "",
+        "population": "1033",
+        "osm_id": 29023794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8167192,
+          61.8348502
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Sandur",
+        "name_en": "",
+        "population": "521",
+        "osm_id": 29023795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8058754,
+          61.7707423
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skúgvoy",
+        "name_en": "",
+        "population": "30",
+        "osm_id": 29023796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0070558,
+          62.0951492
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skælingur",
+        "name_en": "",
+        "population": "13",
+        "osm_id": 29023797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7612163,
+          62.1094828
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Strendur",
+        "name_en": "",
+        "population": "1051",
+        "osm_id": 29023798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0320999,
+          62.1918069
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Streymnes",
+        "name_en": "",
+        "population": "330",
+        "osm_id": 29023799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.787315,
+          62.1632168
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skála",
+        "name_en": "",
+        "population": "784",
+        "osm_id": 29023800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7481328,
+          61.7941449
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skarvanes",
+        "name_en": "",
+        "population": "10",
+        "osm_id": 29023801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7702424,
+          62.1734656
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skipanes",
+        "name_en": "",
+        "population": "53",
+        "osm_id": 29023802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8846436,
+          61.903942
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Skopun",
+        "name_en": "",
+        "population": "485",
+        "osm_id": 29023803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6677719,
+          62.2452742
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Syðradalur",
+        "name_en": "",
+        "population": "6",
+        "osm_id": 29023804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3423555,
+          62.278032
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Svínoy",
+        "name_en": "",
+        "population": "31",
+        "osm_id": 29023805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7559031,
+          62.1856882
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Syðrugøta",
+        "name_en": "",
+        "population": "506",
+        "osm_id": 29023806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9132389,
+          62.0187291
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Syðradalur",
+        "name_en": "",
+        "population": "8",
+        "osm_id": 29023807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7117361,
+          61.4033267
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Sumba",
+        "name_en": "",
+        "population": "248",
+        "osm_id": 29023808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.049687,
+          62.1160634
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Stykkið",
+        "name_en": "",
+        "population": "38",
+        "osm_id": 29023809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0269724,
+          62.2300424
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Svínáir",
+        "name_en": "",
+        "population": "51",
+        "osm_id": 29023810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8500801,
+          62.0493502
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Sund",
+        "name_en": "",
+        "population": "1",
+        "osm_id": 29023811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.839568,
+          61.5640279
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Trongisvágur",
+        "name_en": "",
+        "population": "525",
+        "osm_id": 29023812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7715709,
+          62.0101396
+        ]
+      },
+      "properties": {
+        "type": "town",
+        "name": "Tórshavn",
+        "name_en": "Tórshavn",
+        "population": "14145",
+        "osm_id": 29023813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8046823,
+          61.5553294
+        ]
+      },
+      "properties": {
+        "type": "town",
+        "name": "Tvøroyri",
+        "name_en": "",
+        "population": "871",
+        "osm_id": 29023814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7874663,
+          62.3612898
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Trøllanes",
+        "name_en": "",
+        "population": "14",
+        "osm_id": 29023815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3060468,
+          62.0707453
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Sørvágur",
+        "name_en": "",
+        "population": "1133",
+        "osm_id": 29023816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7525633,
+          62.1575065
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Søldarfjørður",
+        "name_en": "",
+        "population": "345",
+        "osm_id": 29023817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7322421,
+          62.0909703
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Toftir",
+        "name_en": "",
+        "population": "1041",
+        "osm_id": 29023818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1491704,
+          62.2895086
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Tjørnuvík",
+        "name_en": "",
+        "population": "43",
+        "osm_id": 29023819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6936427,
+          62.06969
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Æðuvík",
+        "name_en": "",
+        "population": "88",
+        "osm_id": 29023820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8109963,
+          61.5330598
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Ørðavík",
+        "name_en": "",
+        "population": "27",
+        "osm_id": 29023821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5354618,
+          62.3602003
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Viðareiði",
+        "name_en": "",
+        "population": "331",
+        "osm_id": 29023822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7282073,
+          61.4426481
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Víkarbyrgi",
+        "name_en": "",
+        "population": "0",
+        "osm_id": 29023823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8552203,
+          61.9828378
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Velbastaður",
+        "name_en": "",
+        "population": "264",
+        "osm_id": 29023824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1749746,
+          62.1551919
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Vestmanna",
+        "name_en": "",
+        "population": "1263",
+        "osm_id": 29023825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8114622,
+          61.4738859
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Vágur",
+        "name_en": "",
+        "population": "1344",
+        "osm_id": 29023826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2501349,
+          62.0746107
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Vatnsoyrar",
+        "name_en": "",
+        "population": "42",
+        "osm_id": 29023827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7315819,
+          62.1427717
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Lambareiði",
+        "name_en": "",
+        "population": "12",
+        "osm_id": 302100309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7629045,
+          61.4713652
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Nes",
+        "name_en": "",
+        "population": "",
+        "osm_id": 302100442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1529134,
+          62.1500832
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Válur",
+        "name_en": "",
+        "population": "45",
+        "osm_id": 302100658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5263945,
+          62.2958593
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Norðdepil",
+        "name_en": "",
+        "population": "161",
+        "osm_id": 302101392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9473306,
+          62.0985906
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Oyrareingir",
+        "name_en": "",
+        "population": "38",
+        "osm_id": 302102771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7859637,
+          62.1100382
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kolbeinagjógv",
+        "name_en": "",
+        "population": "30",
+        "osm_id": 302103177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.923748,
+          62.0965501
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Signabøur",
+        "name_en": "",
+        "population": "147",
+        "osm_id": 302103183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5149241,
+          62.2752862
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Norðtoftir",
+        "name_en": "",
+        "population": "1",
+        "osm_id": 302103265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.001254,
+          62.2140607
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Norðskáli",
+        "name_en": "",
+        "population": "312",
+        "osm_id": 302103672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8384204,
+          62.1305991
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Morskranes",
+        "name_en": "",
+        "population": "24",
+        "osm_id": 302103675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9946796,
+          62.2038601
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Oyrarbakki",
+        "name_en": "",
+        "population": "154",
+        "osm_id": 302103914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0081769,
+          62.2072855
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Nesvík",
+        "name_en": "",
+        "population": "0",
+        "osm_id": 302103991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6735807,
+          62.0097028
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Nólsoy",
+        "name_en": "",
+        "population": "214",
+        "osm_id": 302104829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5822078,
+          62.3511173
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Múli",
+        "name_en": "",
+        "population": "0",
+        "osm_id": 485658132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9252229,
+          62.0397597
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Norðradalur",
+        "name_en": "",
+        "population": "9",
+        "osm_id": 541335094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1712467,
+          62.2442303
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Saksun",
+        "name_en": "",
+        "population": "11",
+        "osm_id": 559626795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714562,
+          61.9958418
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Argir",
+        "name_en": "",
+        "population": "2561",
+        "osm_id": 4268001599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7745494,
+          62.0321498
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Hoyvík",
+        "name_en": "",
+        "population": "4663",
+        "osm_id": 5413932401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8120009,
+          62.2210813
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Kambsdalur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 7157160373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9418899,
+          62.0703801
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Mjørkadalur",
+        "name_en": "",
+        "population": "0",
+        "osm_id": 7228560801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8220111,
+          61.5479381
+        ]
+      },
+      "properties": {
+        "type": "village",
+        "name": "Ørðavíkslið",
+        "name_en": "",
+        "population": "56",
+        "osm_id": 12420639814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7019345,
+          62.2077956
+        ]
+      },
+      "properties": {
+        "type": "parking",
+        "name": "Almen Parkering",
+        "name_en": "",
+        "population": "",
+        "osm_id": 13006225501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7017772,
+          62.2082789
+        ]
+      },
+      "properties": {
+        "type": "parking",
+        "name": "Almen Parkering",
+        "name_en": "",
+        "population": "",
+        "osm_id": 13006225601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2761568,
+          62.0640191
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Vágar Airport",
+        "name_en": "Vágar Airport",
+        "population": "",
+        "osm_id": 482873673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2166676,
+          62.0499973
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vørðuklettar",
+        "name_en": "",
+        "population": "",
+        "osm_id": 302100288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7605412,
+          62.1791638
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Syðrugota",
+        "name_en": "",
+        "population": "",
+        "osm_id": 683373731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8167688,
+          62.0096921
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vesturvarði",
+        "name_en": "",
+        "population": "",
+        "osm_id": 778493158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7554084,
+          61.4230783
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Beinisvørð",
+        "name_en": "",
+        "population": "",
+        "osm_id": 1772988773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7594889,
+          61.5440681
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Kúlugjógv",
+        "name_en": "",
+        "population": "",
+        "osm_id": 1772988775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7627781,
+          62.0076311
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Skansin",
+        "name_en": "",
+        "population": "",
+        "osm_id": 1856914790
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2097893,
+          62.2463092
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Saksun",
+        "name_en": "",
+        "population": "",
+        "osm_id": 3533493143,
+        "nearest_village": "Saksun",
+        "distance_km": 2.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1755016,
+          62.144874
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Vestmanna",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4301332989,
+        "nearest_village": "Vestmanna",
+        "distance_km": 1.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6702091,
+          62.0095997
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Nólsoy",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4301333189,
+        "nearest_village": "Nólsoy",
+        "distance_km": 0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.941655,
+          62.3274065
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Gjógv",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4348702914,
+        "nearest_village": "Gjógv",
+        "distance_km": 0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3464577,
+          62.129404
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Bøur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4368883990,
+        "nearest_village": "Bøur",
+        "distance_km": 4.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.434789,
+          62.1065461
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Gásadalur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4369410190,
+        "nearest_village": "Gásadalur",
+        "distance_km": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2292544,
+          62.0210314
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Miðvágur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4369455489,
+        "nearest_village": "Miðvágur",
+        "distance_km": 3.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6829031,
+          62.0973482
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Varpið",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4372035891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4217153,
+          62.1027485
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Á Skarði",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4440997679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1256869,
+          62.0447496
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Trøllkonufingur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4918755823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7639275,
+          62.335188
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Mikladalur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 4921804721,
+        "nearest_village": "Mikladalur",
+        "distance_km": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2286739,
+          62.0235362
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Miðvágur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5007334722,
+        "nearest_village": "Miðvágur",
+        "distance_km": 3.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5439107,
+          62.3602866
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Viðareiði",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5604686297,
+        "nearest_village": "Viðareiði",
+        "distance_km": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0569039,
+          62.3038286
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Eiði",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5612428460,
+        "nearest_village": "Eiði",
+        "distance_km": 1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8239696,
+          61.5752231
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Hundagjógv",
+        "name_en": "Hvannhagi",
+        "population": "",
+        "osm_id": 5622804180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2297787,
+          62.0212819
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Miðvágur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5646339134,
+        "nearest_village": "Miðvágur",
+        "distance_km": 3.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9413365,
+          62.0714011
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Mjørkadalur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5646369827,
+        "nearest_village": "Mjørkadalur",
+        "distance_km": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0566633,
+          62.3039078
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Eiði",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5647872681,
+        "nearest_village": "Eiði",
+        "distance_km": 1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0490189,
+          62.2518753
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Fossá waterfall view",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5647873093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9615115,
+          62.2975936
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Skeggjanøv",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5651100117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9415523,
+          62.3287815
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Gjógv",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5651139869,
+        "nearest_village": "Gjógv",
+        "distance_km": 0.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1433972,
+          62.1026005
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Kvívík",
+        "name_en": "Viewpoint",
+        "population": "",
+        "osm_id": 5652445332,
+        "nearest_village": "Kvívík",
+        "distance_km": 4.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6172979,
+          62.2370315
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Klaksvík",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5652490232,
+        "nearest_village": "Klaksvík",
+        "distance_km": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0900508,
+          62.1159124
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Kvívík",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5654620580,
+        "nearest_village": "Kvívík",
+        "distance_km": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7866073,
+          62.3617001
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Trøllanes",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5658230363,
+        "nearest_village": "Trøllanes",
+        "distance_km": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8069993,
+          62.3715436
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Trøllanes",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5658230369,
+        "nearest_village": "Trøllanes",
+        "distance_km": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8125956,
+          62.3708697
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Trøllanes",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5658231134,
+        "nearest_village": "Trøllanes",
+        "distance_km": 1.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9532856,
+          62.3317832
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Gjógv",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5658231569,
+        "nearest_village": "Gjógv",
+        "distance_km": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5809484,
+          62.3549693
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Múli",
+        "name_en": "",
+        "population": "",
+        "osm_id": 5661004312,
+        "nearest_village": "Múli",
+        "distance_km": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9186926,
+          62.2838052
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Elduvik Gorge",
+        "name_en": "",
+        "population": "",
+        "osm_id": 6283561115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9188039,
+          62.0547385
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Kaldbaksbotnur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 6482947083,
+        "nearest_village": "Kaldbaksbotnur",
+        "distance_km": 1.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7744634,
+          61.9936314
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Capital overview",
+        "name_en": "",
+        "population": "",
+        "osm_id": 6564904331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8550021,
+          61.9834626
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Velbastaður",
+        "name_en": "",
+        "population": "",
+        "osm_id": 6564904332,
+        "nearest_village": "Velbastaður",
+        "distance_km": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7680623,
+          62.0073226
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "TInganes",
+        "name_en": "",
+        "population": "",
+        "osm_id": 6631162285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9000823,
+          61.8414486
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Sandur",
+        "name_en": "Point of view with pedestral road",
+        "population": "",
+        "osm_id": 6873348287,
+        "nearest_village": "Sandur",
+        "distance_km": 4.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.223917,
+          62.062595
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Vatnsoyrar",
+        "name_en": "Airplane watching",
+        "population": "",
+        "osm_id": 7746133087,
+        "nearest_village": "Vatnsoyrar",
+        "distance_km": 1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7944332,
+          62.3359548
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Mikladalur",
+        "name_en": "View to Gjogv",
+        "population": "",
+        "osm_id": 7746133185,
+        "nearest_village": "Mikladalur",
+        "distance_km": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.943703,
+          62.3259869
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Gjógv",
+        "name_en": "Gjógv natural harbor",
+        "population": "",
+        "osm_id": 7835458986,
+        "nearest_village": "Gjógv",
+        "distance_km": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9412947,
+          62.3267983
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Gjógv",
+        "name_en": "Gjógv harbor and Puffin cliff",
+        "population": "",
+        "osm_id": 7835476685,
+        "nearest_village": "Gjógv",
+        "distance_km": 0.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8316295,
+          61.4561458
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Vágur",
+        "name_en": "Eggjarnar",
+        "population": "",
+        "osm_id": 7849134385,
+        "nearest_village": "Vágur",
+        "distance_km": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6825187,
+          61.3948668
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Sumba",
+        "name_en": "",
+        "population": "",
+        "osm_id": 7938159345,
+        "nearest_village": "Sumba",
+        "distance_km": 1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1338207,
+          62.2946298
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Udsigtspunkt til Jætten og Kællingen (Risin & Kellingin). Se over mod Eysturoy.",
+        "name_en": "Viewpoint for cliff formations The giant and the witch. Look towards Eysturoy.",
+        "population": "",
+        "osm_id": 8447480517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0755523,
+          62.2513695
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Fossa vandfald",
+        "name_en": "Fossa waterfall direct viewpoint",
+        "population": "",
+        "osm_id": 8464786162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9344769,
+          62.0781112
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Mjørkadalur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 8715037533,
+        "nearest_village": "Mjørkadalur",
+        "distance_km": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1258414,
+          62.044783
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Sandavágur",
+        "name_en": "Trollfinger",
+        "population": "",
+        "osm_id": 8832810417,
+        "nearest_village": "Sandavágur",
+        "distance_km": 1.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2204634,
+          62.2806453
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Tjørnuvík",
+        "name_en": "",
+        "population": "",
+        "osm_id": 8901173165,
+        "nearest_village": "Tjørnuvík",
+        "distance_km": 3.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0633581,
+          62.3037637
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Udsigtspunkt med klippeformation \"Risin og Kellingin\" (\"Jætten og Kællingen\"). Der er holdeplads og kikkert ved vejen.",
+        "name_en": "Viewpoint of the cliff formation \"Risin og Kellingin\" (\"The giant and the witch\"). Parking area and binoculars by the road",
+        "population": "",
+        "osm_id": 8973718734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6448969,
+          62.1005364
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Mykines",
+        "name_en": "",
+        "population": "",
+        "osm_id": 8999504417,
+        "nearest_village": "Mykines",
+        "distance_km": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9435253,
+          62.0882099
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Oyrareingir",
+        "name_en": "",
+        "population": "",
+        "osm_id": 9056270117,
+        "nearest_village": "Oyrareingir",
+        "distance_km": 1.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7693913,
+          62.0120524
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Tórshavn",
+        "name_en": "",
+        "population": "",
+        "osm_id": 9653995035,
+        "nearest_village": "Tórshavn",
+        "distance_km": 0.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9472227,
+          61.9109265
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Skopun",
+        "name_en": "",
+        "population": "",
+        "osm_id": 9815556215,
+        "nearest_village": "Skopun",
+        "distance_km": 3.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9637521,
+          62.2940247
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Hvíthamar",
+        "name_en": "",
+        "population": "",
+        "osm_id": 9926680527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2441881,
+          62.0256434
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Miðvágur",
+        "name_en": "View on the rocks",
+        "population": "",
+        "osm_id": 9998377318,
+        "nearest_village": "Miðvágur",
+        "distance_km": 3.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4115468,
+          62.0752502
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Scenic Spot Drangarnir",
+        "name_en": "",
+        "population": "",
+        "osm_id": 10173929017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9782473,
+          61.6328502
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Sandvík",
+        "name_en": "",
+        "population": "",
+        "osm_id": 10769397255,
+        "nearest_village": "Sandvík",
+        "distance_km": 2.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7428403,
+          61.5540656
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Froðba",
+        "name_en": "",
+        "population": "",
+        "osm_id": 10819013443,
+        "nearest_village": "Froðba",
+        "distance_km": 1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7826414,
+          61.9955754
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Argir",
+        "name_en": "",
+        "population": "",
+        "osm_id": 11989002320,
+        "nearest_village": "Argir",
+        "distance_km": 0.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2376741,
+          62.0222423
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Miðvágur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 12010250235,
+        "nearest_village": "Miðvágur",
+        "distance_km": 3.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.831463,
+          61.4566102
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Vágur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 12176948577,
+        "nearest_village": "Vágur",
+        "distance_km": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8191364,
+          62.2297859
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Kambsdalur",
+        "name_en": "",
+        "population": "",
+        "osm_id": 12446242142,
+        "nearest_village": "Kambsdalur",
+        "distance_km": 1.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5101178,
+          62.3451049
+        ]
+      },
+      "properties": {
+        "type": "viewpoint",
+        "name": "Vue près Viðareiði",
+        "name_en": "",
+        "population": "",
+        "osm_id": 13050017902,
+        "nearest_village": "Viðareiði",
+        "distance_km": 2.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0097
+        ]
+      },
+      "properties": {
+        "name": "Effo Tórshavn (Gundadalur)",
+        "brand": "Effo",
+        "location": "Tórshavn",
+        "island": "Streymoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7589,
+          62.0123
+        ]
+      },
+      "properties": {
+        "name": "Effo Tórshavn (Argir)",
+        "brand": "Effo",
+        "location": "Argir",
+        "island": "Streymoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.785,
+          62.005
+        ]
+      },
+      "properties": {
+        "name": "Magn Tórshavn 1",
+        "brand": "Magn",
+        "location": "Tórshavn",
+        "island": "Streymoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.792,
+          62.008
+        ]
+      },
+      "properties": {
+        "name": "Magn Tórshavn 2",
+        "brand": "Magn",
+        "location": "Tórshavn",
+        "island": "Streymoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          62.075
+        ]
+      },
+      "properties": {
+        "name": "Effo Kollafjørður",
+        "brand": "Effo",
+        "location": "Kollafjørður",
+        "island": "Streymoy",
+        "notes": "Salle de repos disponible",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.095,
+          62.155
+        ]
+      },
+      "properties": {
+        "name": "Magn Vestmanna",
+        "brand": "Magn",
+        "location": "Vestmanna",
+        "island": "Streymoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          62.03
+        ]
+      },
+      "properties": {
+        "name": "Magn við Streymin",
+        "brand": "Magn",
+        "location": "Streymoy (pont)",
+        "island": "Streymoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.072,
+          62.07
+        ]
+      },
+      "properties": {
+        "name": "Effo Sørvágur",
+        "brand": "Effo",
+        "location": "Sørvágur",
+        "island": "Vágar",
+        "notes": "Près aéroport, salle repos",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.108,
+          62.053
+        ]
+      },
+      "properties": {
+        "name": "Magn Miðvágur",
+        "brand": "Magn",
+        "location": "Miðvágur",
+        "island": "Vágar",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.758,
+          62.095
+        ]
+      },
+      "properties": {
+        "name": "Effo Leirvík",
+        "brand": "Effo",
+        "location": "Leirvík",
+        "island": "Eysturoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.755,
+          62.115
+        ]
+      },
+      "properties": {
+        "name": "Effo Norðragøta",
+        "brand": "Effo",
+        "location": "Norðragøta",
+        "island": "Eysturoy",
+        "notes": "Vend aussi du fil à tricoter!",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77,
+          62.06
+        ]
+      },
+      "properties": {
+        "name": "Magn Saltangará",
+        "brand": "Magn",
+        "location": "Saltangará",
+        "island": "Eysturoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.952,
+          62.04
+        ]
+      },
+      "properties": {
+        "name": "Effo Runavík",
+        "brand": "Effo",
+        "location": "Runavík",
+        "island": "Eysturoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.948,
+          62.038
+        ]
+      },
+      "properties": {
+        "name": "Magn Runavík",
+        "brand": "Magn",
+        "location": "Runavík",
+        "island": "Eysturoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.818,
+          62.053
+        ]
+      },
+      "properties": {
+        "name": "Effo Strendur",
+        "brand": "Effo",
+        "location": "Strendur",
+        "island": "Eysturoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          62.095
+        ]
+      },
+      "properties": {
+        "name": "Magn Sunda",
+        "brand": "Magn",
+        "location": "Sunda",
+        "island": "Eysturoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227
+        ]
+      },
+      "properties": {
+        "name": "Effo Klaksvík",
+        "brand": "Effo",
+        "location": "Klaksvík",
+        "island": "Borðoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.595,
+          62.223
+        ]
+      },
+      "properties": {
+        "name": "Magn Klaksvík",
+        "brand": "Magn",
+        "location": "Klaksvík",
+        "island": "Borðoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          61.835
+        ]
+      },
+      "properties": {
+        "name": "Magn Sandur",
+        "brand": "Magn",
+        "location": "Sandur",
+        "island": "Sandoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.838
+        ]
+      },
+      "properties": {
+        "name": "Effo Sandur",
+        "brand": "Effo",
+        "location": "Sandur",
+        "island": "Sandoy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.813,
+          61.558
+        ]
+      },
+      "properties": {
+        "name": "Effo Tvøroyri",
+        "brand": "Effo",
+        "location": "Tvøroyri",
+        "island": "Suðuroy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          61.562
+        ]
+      },
+      "properties": {
+        "name": "Magn Tvøroyri",
+        "brand": "Magn",
+        "location": "Tvøroyri",
+        "island": "Suðuroy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.795,
+          61.515
+        ]
+      },
+      "properties": {
+        "name": "Magn Trongisvágur",
+        "brand": "Magn",
+        "location": "Trongisvágur",
+        "island": "Suðuroy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.735,
+          61.475
+        ]
+      },
+      "properties": {
+        "name": "Effo Vágur",
+        "brand": "Effo",
+        "location": "Vágur",
+        "island": "Suðuroy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.738,
+          61.478
+        ]
+      },
+      "properties": {
+        "name": "Magn Vágur",
+        "brand": "Magn",
+        "location": "Vágur",
+        "island": "Suðuroy",
+        "type": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.958,
+          61.602
+        ]
+      },
+      "properties": {
+        "name": "Effo Hvalba",
+        "brand": "Effo",
+        "location": "Hvalba",
+        "island": "Suðuroy",
+        "type": "fuel"
+      }
+    }
+  ]
+}

@@ -2,18 +2,18 @@
   "type": "FeatureCollection",
   "name": "faroe-campings",
   "description": "Campings, aires CC et parkings aux îles Féroé - Décembre 2025",
-  "sources": ["camping.fo", "park4night.com", "visitsuduroy.fo", "campercontact.com"],
-  "version": "2.0",
+  "sources": ["camping.fo", "park4night.com", "visitsuduroy.fo", "campercontact.com", "northtrotter.com"],
+  "version": "3.0",
   "features": [
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.7675, 62.0085] },
-      "properties": { "name": "Tórshavn Camping", "type": "camping - officiel", "island": "Streymoy", "capacity": "60 CC + 10 tentes", "facilities": "WC, douches, cuisine, WiFi", "price": "150-200 DKK", "source": "camping.fo" }
+      "properties": { "name": "Tórshavn Camping", "type": "camping - officiel", "island": "Streymoy", "capacity": "60 CC + tentes", "facilities": "WC, douches, cuisine, WiFi", "price": "120-240 DKK", "source": "camping.fo" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-7.095, 62.155] },
-      "properties": { "name": "Vestmanna Camping", "type": "camping - officiel", "island": "Streymoy", "capacity": "~150 places", "facilities": "WC, douches, cuisine, WiFi", "price": "100-150 DKK", "source": "camping.fo" }
+      "properties": { "name": "Vestmanna Camping", "type": "camping - officiel", "island": "Streymoy", "capacity": "~150 places", "facilities": "WC, douches, cuisine, WiFi, lave-linge", "price": "100-150 DKK", "note": "Full hookup, proche bateaux falaises", "source": "camping.fo" }
     },
     {
       "type": "Feature",
@@ -27,23 +27,43 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-7.05, 62.18] },
+      "properties": { "name": "Park4Night - Haldórsvík Aire Service", "type": "aire - service gratuit", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Vidange", "price": "Gratuit", "note": "Aire service devant camping Haldórsvík", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.7739, 62.0206] },
+      "properties": { "name": "Park4Night - Tórshavn Heykavegur", "type": "parking - nuit autorisée", "island": "Streymoy", "capacity": "Grand parking", "facilities": "Aucun", "price": "Gratuit", "note": "Parking asphalté plat, limité 8h jour", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.768, 62.008] },
+      "properties": { "name": "Park4Night - Tórshavn Port (Yviri við Strond)", "type": "parking - nuit possible", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Près port, bon pour arrivée/départ ferry", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.765, 62.007] },
+      "properties": { "name": "Park4Night - Tórshavn Marina (Skálatrøð)", "type": "parking - jour", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Devant marina, pratique attente ferry", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.92, 62.09] },
-      "properties": { "name": "Kollafjørður (Oyggjarvegur)", "type": "parking - vue panoramique", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Spot park4night, vue magnifique", "source": "park4night" }
+      "properties": { "name": "Park4Night - Kollafjørður (Oyggjarvegur)", "type": "parking - vue panoramique", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Vue magnifique sur Kollafjørður", "source": "park4night" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.85, 62.05] },
-      "properties": { "name": "Kaldbaksbotnur", "type": "parking - vue panoramique", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Vue gigantesque, plat, très calme", "source": "park4night" }
+      "properties": { "name": "Park4Night - Kaldbaksbotnur", "type": "parking - vue panoramique", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Vue gigantesque, plat, très calme", "source": "park4night" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-7.05, 62.08] },
-      "properties": { "name": "Leynar", "type": "parking - stationnement", "island": "Streymoy", "capacity": "Petit", "facilities": "Aucun", "price": "Gratuit", "note": "Petits fourgons seulement", "source": "park4night" }
+      "properties": { "name": "Park4Night - Leynar", "type": "parking - stationnement", "island": "Streymoy", "capacity": "Petit", "facilities": "Aucun", "price": "Gratuit", "note": "Petits fourgons seulement", "source": "park4night" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.672, 62.007] },
-      "properties": { "name": "Nólsoy Camping", "type": "aire - gratuite", "island": "Nólsoy", "capacity": "CC + tentes", "facilities": "WC publics", "price": "Gratuit", "note": "Aire primitive, fourgons autorisés", "source": "camping.fo" }
+      "properties": { "name": "Nólsoy Camping", "type": "aire - gratuite", "island": "Nólsoy", "capacity": "CC + tentes", "facilities": "WC publics 24h", "price": "Gratuit", "note": "Aire primitive au-dessus du port", "source": "northtrotter" }
     },
     {
       "type": "Feature",
@@ -53,17 +73,17 @@
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.944, 62.326] },
-      "properties": { "name": "Gjógv Camping", "type": "camping - officiel", "island": "Eysturoy", "capacity": "Moyen", "facilities": "Équipements complets", "price": "200 DKK", "note": "Vue spectaculaire", "source": "camping.fo" }
+      "properties": { "name": "Gjógv Camping", "type": "camping - officiel", "island": "Eysturoy", "capacity": "Moyen", "facilities": "Équipements complets, lave-linge", "price": "200 DKK", "note": "Vue spectaculaire sur gorge", "source": "camping.fo" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.813, 62.244] },
-      "properties": { "name": "Fuglafjørður Stellplatz", "type": "stellplatz - communal", "island": "Eysturoy", "capacity": "24 CC", "facilities": "Électricité, eau", "price": "150-200 DKK", "note": "Près du Kulturhaus, paiement office tourisme", "source": "norrmagazin" }
+      "properties": { "name": "Fuglafjørður Stellplatz", "type": "stellplatz - communal", "island": "Eysturoy", "capacity": "24 CC", "facilities": "Électricité 10A, eau, WC, douches", "price": "150-200 DKK", "note": "Près Kulturhaus, paiement office tourisme", "source": "park4night" }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-6.919, 62.284] },
-      "properties": { "name": "Elduvík", "type": "aire - gratuite", "island": "Eysturoy", "capacity": "5 CC + tentes", "facilities": "WC", "price": "Gratuit (max 3 nuits)", "note": "Électricité 300 DKK à l'office de Runavík", "source": "northtrotter" }
+      "geometry": { "type": "Point", "coordinates": [-6.911, 62.2824] },
+      "properties": { "name": "Park4Night - Elduvík", "type": "aire - gratuite", "island": "Eysturoy", "capacity": "8 CC + tentes", "facilities": "WC chauffés, eau, vidange", "price": "Gratuit (max 3 nuits)", "note": "Électricité 300 DKK TallyCard office Runavík. Départ randos.", "source": "park4night" }
     },
     {
       "type": "Feature",
@@ -73,37 +93,42 @@
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.76, 62.22] },
-      "properties": { "name": "Selatrað Camping", "type": "camping - officiel", "island": "Eysturoy", "capacity": "Petit", "facilities": "WC", "price": "125-150 DKK", "note": "Petit port, isolé", "source": "park4night" }
+      "properties": { "name": "Park4Night - Selatrað", "type": "camping - basique", "island": "Eysturoy", "capacity": "Petit", "facilities": "WC", "price": "125-150 DKK", "note": "Petit port, isolé, très basique", "source": "park4night" }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-6.81, 62.32] },
-      "properties": { "name": "Mjørkadalur", "type": "aire - nature", "island": "Eysturoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Spot park4night, calme", "source": "park4night" }
+      "geometry": { "type": "Point", "coordinates": [-6.956197, 62.081641] },
+      "properties": { "name": "Park4Night - Mjørkadalur", "type": "aire - nature", "island": "Streymoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Lieu calme pour CC ou tente", "source": "park4night" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.95, 62.28] },
-      "properties": { "name": "Funningsfjørður", "type": "parking - fjord", "island": "Eysturoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Bord de fjord paisible", "source": "park4night" }
+      "properties": { "name": "Park4Night - Funningsfjørður", "type": "parking - fjord", "island": "Eysturoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Bord de fjord paisible", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.99, 62.30] },
+      "properties": { "name": "Park4Night - Eiðisskarð (Slættaratindur)", "type": "parking - randonnée", "island": "Eysturoy", "capacity": "Parking randonneurs", "facilities": "Poubelle, table pique-nique", "price": "Gratuit", "note": "Départ rando Slættaratindur (880m)", "source": "park4night" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-7.13, 62.055] },
-      "properties": { "name": "Giljanes Camping (Sandavágur)", "type": "camping - officiel", "island": "Vágar", "capacity": "CC + tentes", "facilities": "WC, douches, cuisine", "price": "100-200 DKK", "note": "Hostel + camping", "source": "camping.fo" }
+      "properties": { "name": "Giljanes Camping (Sandavágur)", "type": "camping - officiel", "island": "Vágar", "capacity": "CC + tentes", "facilities": "WC, douches, cuisine partagée hostel", "price": "100-200 DKK", "note": "Seul camping Vágar, hostel + camping, ambiance voyageurs", "source": "park4night" }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-7.65, 62.10] },
-      "properties": { "name": "Mykines Camping", "type": "camping - officiel", "island": "Mykines", "capacity": "Tentes uniquement", "facilities": "Basique", "price": "100 DKK", "note": "Accès ferry uniquement", "source": "camping.fo" }
+      "geometry": { "type": "Point", "coordinates": [-7.642288, 62.10395] },
+      "properties": { "name": "Park4Night - Mykines", "type": "camping - tentes", "island": "Mykines", "capacity": "Tentes uniquement", "facilities": "WC village, douche payante 20 DKK", "price": "100 DKK", "note": "Champ pour tentes, île magnifique", "source": "park4night" }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-6.81, 61.835] },
-      "properties": { "name": "Sandur Camping", "type": "camping - officiel", "island": "Sandoy", "capacity": "Moyen", "facilities": "Cuisine, salon", "price": "Parfois gratuit", "note": "Pas de système de paiement clair", "source": "park4night" }
+      "geometry": { "type": "Point", "coordinates": [-6.8099, 61.8298] },
+      "properties": { "name": "Park4Night - Sandur", "type": "camping - officiel", "island": "Sandoy", "capacity": "10 places", "facilities": "Cuisine, salon, WC, douche, lave-linge", "price": "CC 100 DKK, tente 50 DKK", "note": "Près port, souvent gratuit (pas de système paiement clair)", "source": "park4night" }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-6.675, 61.784] },
-      "properties": { "name": "Dalur Camping", "type": "camping - officiel", "island": "Sandoy", "capacity": "Petit", "facilities": "WiFi, cuisine", "price": "100 DKK", "source": "camping.fo" }
+      "geometry": { "type": "Point", "coordinates": [-6.674538, 61.784447] },
+      "properties": { "name": "Park4Night - Dalur", "type": "camping - officiel", "island": "Sandoy", "capacity": "Petit", "facilities": "WiFi, cuisine", "price": "100 DKK", "note": "Face mer, village calme", "source": "park4night" }
     },
     {
       "type": "Feature",
@@ -112,8 +137,13 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-6.735, 61.475] },
-      "properties": { "name": "Camping Vágseiðið (Vágur)", "type": "camping - officiel", "island": "Suðuroy", "capacity": "12 CC + 400m² tentes", "facilities": "Complet, WiFi gratuit", "price": "100-150 DKK", "note": "Principal camping Suðuroy", "source": "visitsuduroy.fo" }
+      "geometry": { "type": "Point", "coordinates": [-6.78, 61.87] },
+      "properties": { "name": "Park4Night - Søltuvík", "type": "parking - pique-nique", "island": "Sandoy", "capacity": "Quelques places", "facilities": "Tables pique-nique", "price": "Gratuit", "note": "Emplacements plats", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.8362, 61.467] },
+      "properties": { "name": "Park4Night - Kamping Vágseiðið (Vágur)", "type": "camping - officiel", "island": "Suðuroy", "capacity": "50 places (12 CC + tentes)", "facilities": "WiFi gratuit, 2 douches, cuisine 12 pers, lave-linge", "price": "CC 175 DKK, tente 75 DKK/adulte", "note": "Principal Suðuroy, réservation en ligne", "source": "park4night" }
     },
     {
       "type": "Feature",
@@ -137,13 +167,33 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-6.765, 62.335] },
-      "properties": { "name": "Mikladalur Camping (Kalsoy)", "type": "camping - officiel", "island": "Kalsoy", "capacity": "Petit", "facilities": "WC, douches, électricité", "price": "150-250 DKK", "note": "Seul camping îles du nord", "source": "camping.fo" }
+      "geometry": { "type": "Point", "coordinates": [-6.770752, 62.333587] },
+      "properties": { "name": "Park4Night - Mikladalur Camping (Kalsoy)", "type": "camping - officiel", "island": "Kalsoy", "capacity": "10 places", "facilities": "WC, douches (3), électricité, eau", "price": "150-250 DKK", "note": "Seul camping îles du nord, paiement office Klaksvík, vue Kunoy", "source": "park4night" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-6.34, 62.27] },
       "properties": { "name": "Svínoy Camping", "type": "camping - officiel", "island": "Svínoy", "capacity": "Moyen", "facilities": "Douches gratuites, cuisine", "price": "100 DKK", "note": "Considéré comme le meilleur par certains", "source": "camping.fo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.521, 62.2977] },
+      "properties": { "name": "Park4Night - Hvannasund Marina", "type": "parking - ferry", "island": "Borðoy", "capacity": "Grand parking", "facilities": "WC publics (8h-20h été, 8h-17h sinon)", "price": "Gratuit", "note": "Départ ferry Fugloy/Svínoy, fish & chips truck parfois", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.59, 62.23] },
+      "properties": { "name": "Park4Night - Klaksvík Oyrarvegur", "type": "parking - jour/nuit", "island": "Borðoy", "capacity": "Grand parking", "facilities": "Aucun", "price": "Gratuit", "note": "Parking centre-ville", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.62, 62.295] },
+      "properties": { "name": "Park4Night - Kunoy Village", "type": "parking - nature", "island": "Kunoy", "capacity": "Quelques places", "facilities": "Aucun", "price": "Gratuit", "note": "Forêt plantée rare aux Féroé, sentiers", "source": "park4night" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.60, 62.35] },
+      "properties": { "name": "Skarð Shelter (Kunoy)", "type": "refuge - randonneurs", "island": "Kunoy", "capacity": "Petit abri", "facilities": "Abri rouge uniquement", "price": "Gratuit", "note": "Village abandonné, 3h marche depuis Haraldssund", "source": "northtrotter" }
     }
   ]
 }

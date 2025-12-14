@@ -1,0 +1,6139 @@
+{
+  "type": "FeatureCollection",
+  "name": "Copie de la carte \"Grocery stores and Gas stations\"",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Go Campers Iceland",
+        "folder": "Go Campers",
+        "stroke": "#db4436",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9445461,
+          64.0764603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aldan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.8334406,
+          65.7497735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlansolia",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9380826,
+          64.0765103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolia",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7345378,
+          65.0707214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6903809,
+          64.1639178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9236539,
+          64.1318916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8709298,
+          64.1321463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8534304,
+          64.1102721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolia",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8934774,
+          64.56766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.3970423,
+          65.2601363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5493865,
+          63.9874754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8130745,
+          64.1253955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8478997,
+          64.1209242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1354285,
+          65.6991052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9678311,
+          64.0635257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1857653,
+          63.9941903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0995681,
+          65.6878031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9189876,
+          64.1457612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7569291,
+          64.1265895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolia",
+        "description": "opening hours 7.30am - 9pm",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8299477,
+          64.2420782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlansolia",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0130584,
+          63.9466947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.93599,
+          64.11123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantsolía",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8326342,
+          64.0872913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Costco gas station",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9146865,
+          64.0752605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dælan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8771803,
+          64.1309961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dælan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8596819,
+          64.0936717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dælan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8420665,
+          64.1125979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dælan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8493224,
+          64.1411949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dælan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8842194,
+          64.0988353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "opening hours 7.00am-11.30pm",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9874782,
+          63.936742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "opening hours 7.30am-7.30pm",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1924848,
+          63.9960843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4362707,
+          63.8437002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "selfservice",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4287505,
+          63.841435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Saturday\t10AM–10PM<br>Sunday\t10AM–10PM<br>Monday\t7:30AM–10PM<br>Tuesday\t7:30AM–10PM<br>Wednesday\t7:30AM–10PM<br>Thursday\t7:30AM–10PM<br>Friday\t7:30AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.549527,
+          63.9966993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "selfservice",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7135897,
+          64.0403711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6487982,
+          64.0675081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "opening hours : 8am - 11pm",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9105712,
+          64.5439628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Saturday\tClosed<br>Sunday\tClosed<br>Monday\t8AM–6PM<br>Tuesday\t8AM–6PM<br>Wednesday\t8AM–6PM<br>Thursday\t8AM–6PM<br>Friday\t8AM–5PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5757697,
+          63.9677891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "opening hours 8am-10pm",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2340671,
+          63.7496522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "opening hours 9am-9pm everyday",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0399236,
+          63.7939327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6460681,
+          63.8813219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "open 24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.229615,
+          64.3135598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday<br>10AM–10PM<br>Monday<br>8AM–10PM<br>Tuesday<br>8AM–10PM<br>Wednesday<br>8AM–10PM<br>Thursday<br>8AM–10PM<br>Friday<br>8AM–10PM<br>Saturday<br>9AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2063361,
+          64.2589984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1957561,
+          64.2501164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2862411,
+          64.6562033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0077186,
+          64.7937045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.8753086,
+          64.8334362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday<br>Closed<br>Monday<br>9AM–5PM<br>Tuesday<br>9AM–5PM<br>Wednesday<br>9AM–5PM<br>Thursday<br>9AM–5PM<br>Friday<br>9AM–5PM<br>Saturday<br>Closed",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2219949,
+          65.0318339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday<br>8AM–11:30PM<br>Monday<br>8AM–11:30PM<br>Tuesday<br>8AM–11:30PM<br>Wednesday<br>8AM–11:30PM<br>Thursday<br>8AM–11:30PM<br>Friday<br>8AM–11:30PM<br>Saturday<br>8AM–11:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4079524,
+          65.2606355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.8171208,
+          65.5280423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0365309,
+          65.0765974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.8052895,
+          66.0383294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.3366673,
+          66.1980744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9505552,
+          66.4534982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4484751,
+          66.3003491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4839044,
+          66.0305119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Opening hours<br>Mon.-Thu. 8:00-22:00<br>Fri. 8:00-22:00<br>Sat. 9:00-22:00<br>Sun. 10:00-22:00",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3434827,
+          66.0477105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "24 hours open",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9111669,
+          65.6417037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3722064,
+          65.7208524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5388896,
+          65.6862166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t10AM–7:30PM<br>Monday\t7:30AM–7:30PM<br>Tuesday\t7:30AM–7:30PM<br>Wednesday\t7:30AM–7:30PM<br>Thursday\t7:30AM–7:30PM<br>Friday\t7:30AM–7:30PM<br>Saturday\t9AM–7:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1085935,
+          65.6908345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t10AM–7:30PM<br>Monday\t7:30AM–7:30PM<br>Tuesday\t7:30AM–7:30PM<br>Wednesday\t7:30AM–7:30PM<br>Thursday\t7:30AM–7:30PM<br>Friday\t7:30AM–7:30PM<br>Saturday\t8AM–7:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0810714,
+          65.6697984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t9AM–11:30PM<br>Monday\t7:30AM–11:30PM<br>Tuesday\t7:30AM–11:30PM<br>Wednesday\t7:30AM–11:30PM<br>Thursday\t7:30AM–11:30PM<br>Friday\t7:30AM–11:30PM<br>Saturday\t9AM–11:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1235707,
+          66.074575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "open 24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.9755047,
+          65.590285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.4129384,
+          65.8971891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t9AM–10PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–10PM<br>Saturday\t9AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6365809,
+          65.7402734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t9AM–10PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–10PM<br>Saturday\t9AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2759122,
+          65.6602003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7635781,
+          65.1077867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t9AM–11:30PM<br>Monday\t7AM–11:30PM<br>Tuesday\t7AM–11:30PM<br>Wednesday\t7AM–11:30PM<br>Thursday\t7AM–11:30PM<br>Friday\t7AM–11:30PM<br>Saturday\t7AM–11:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6955733,
+          64.1659891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t11AM–8PM<br>Monday\t10AM–8PM<br>Tuesday\t10AM–8PM<br>Wednesday\t10AM–8PM<br>Thursday\t10AM–8PM<br>Friday\t10AM–8PM<br>Saturday\t11AM–8PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5103345,
+          66.0518175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7794539,
+          64.100159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t8AM–11PM<br>Monday\t8AM–11PM<br>Tuesday\t8AM–11PM<br>Wednesday\t8AM–11PM<br>Thursday\t8AM–11PM<br>Friday\t8AM–11PM<br>Saturday\t8AM–11PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0850811,
+          65.1446538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1808011,
+          65.9468773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9379907,
+          64.1386622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8294692,
+          64.1243013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.2027833,
+          65.4519968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2514615,
+          64.0414583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8263578,
+          64.1235849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.1035373,
+          65.5563422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2603553,
+          64.9250394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t11AM–8PM<br>Monday\t10AM–8PM<br>Tuesday\t10AM–8PM<br>Wednesday\t10AM–8PM<br>Thursday\t10AM–8PM<br>Friday\t10AM–8PM<br>Saturday\t11AM–8PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.8842988,
+          64.915011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8988419,
+          64.1179092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7721128,
+          64.1384148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.2829852,
+          64.6628764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "monday-friday 8am - 6pm<br>saturday 10am-2pm<br>sunday- closed",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.7030351,
+          64.8936228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2834493,
+          63.4441953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0139457,
+          66.5394091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5488062,
+          66.0513604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.8261629,
+          65.6268476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "24 hours open",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9388309,
+          64.0667281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.84587,
+          64.1040859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8562269,
+          64.1100213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9692177,
+          64.0533023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Opening hours<br>Mon.-Thu. 7:30-19:30<br>Fri. 7:30-19:30<br>Sat. 10:00-19:30<br>Sun. 10:00-19:30",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9503671,
+          64.0767601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.4420395,
+          65.6891586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9665059,
+          64.1434839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7336659,
+          64.2171094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Service gas station",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0013158,
+          63.4178003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1682348,
+          65.5760376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8948787,
+          64.1465444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3016618,
+          64.3098133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8863535,
+          64.1262537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.381332,
+          65.9786081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.4535495,
+          64.1771513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.684866,
+          65.7010813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.64327,
+          65.3787175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6536312,
+          64.843602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4287981,
+          65.9276589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0652954,
+          64.3219368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "description": "Sunday\t10AM–8PM<br>Monday\t9AM–8PM<br>Tuesday\t9AM–8PM<br>Wednesday\t9AM–8PM<br>Thursday\t9AM–8PM<br>Friday\t9AM–8PM<br>Saturday\t10AM–8PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.4890458,
+          65.8768284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N1",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3216983,
+          64.1315235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6928053,
+          65.7012491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1209528,
+          66.0687222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2859535,
+          65.6564735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9393057,
+          64.0818122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "Self service.",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7807952,
+          64.3589008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0026372,
+          63.4180299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5004025,
+          63.8794278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1481586,
+          63.8624205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5469387,
+          63.9799971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9866467,
+          64.0445955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service.<br>Next to Cafe",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5976405,
+          64.4102929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8323403,
+          64.1247474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0073172,
+          63.9437045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6266133,
+          65.7438708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0681912,
+          64.3245116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2472098,
+          66.1574923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6339092,
+          64.7667763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.3739121,
+          63.8561691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1439732,
+          65.6999221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0699962,
+          64.3249798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0386026,
+          63.7944663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7517506,
+          64.1562107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8961783,
+          64.0982525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9717336,
+          64.0590733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9210007,
+          64.1396381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2704991,
+          63.4424333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0894855,
+          65.683508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7643426,
+          64.0748491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8807846,
+          64.0991138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7329619,
+          65.0719306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.694851,
+          65.1475296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ÓB",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1285438,
+          65.6870768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "open 24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1009868,
+          65.6892169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t10AM–9PM<br>Monday\t10AM–10PM<br>Tuesday\t10AM–10PM<br>Wednesday\t10AM–10PM<br>Thursday\t10AM–10PM<br>Friday\t10AM–10PM<br>Saturday\t10AM–12PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.306232,
+          65.8237528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.892241,
+          65.3260488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday<br>8AM–10PM<br>Monday<br>8AM–10PM<br>Tuesday<br>8AM–10PM<br>Wednesday<br>8AM–10PM<br>Thursday<br>8AM–10PM<br>Friday<br>8AM–10PM<br>Saturday<br>8AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2311211,
+          65.0341423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t10AM–8PM<br>Monday\t9AM–8PM<br>Tuesday\t9AM–8PM<br>Wednesday\t9AM–8PM<br>Thursday\t9AM–8PM<br>Friday\t9AM–8PM<br>Saturday\t9AM–8PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9030182,
+          66.1495242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "open 24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0082372,
+          63.943733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "open 24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9079748,
+          64.5446414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "opening hours <br>08.00-23.00",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.401614,
+          63.8349505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Saturday\t7:30AM–11:30PM<br>Sunday\t9AM–11:30PM<br>Monday\t7:30AM–11:30PM<br>Tuesday\t7:30AM–11:30PM<br>Wednesday\t7:30AM–11:30PM<br>Thursday\t7:30AM–11:30PM<br>Friday\t7:30AM–11:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5485835,
+          64.0004844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday<br>9AM–10PM<br>Monday<br>8AM–10PM<br>Tuesday<br>8AM–10PM<br>Wednesday<br>8AM–10PM<br>Thursday<br>8AM–10PM<br>Friday<br>8AM–10PM<br>Saturday<br>8AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2088208,
+          64.2553753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "opening hours:6.30am-6.30pm<br>little caffe",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5014082,
+          64.0576682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7073439,
+          64.1657625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.955141,
+          64.152575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t9AM–11:30PM<br>Monday\t7:30AM–11:30PM<br>Tuesday\t7:30AM–11:30PM<br>Wednesday\t7:30AM–11:30PM<br>Thursday\t7:30AM–11:30PM<br>Friday\t7:30AM–11:30PM<br>Saturday\t8AM–11:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0676245,
+          64.3247298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.276794,
+          63.441805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.766318,
+          64.102843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8705096,
+          64.1503926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t9AM–9PM<br>Monday\t9AM–9PM<br>Tuesday\t9AM–9PM<br>Wednesday\t9AM–9PM<br>Thursday\t9AM–9PM<br>Friday\t9AM–9PM<br>Saturday\t9AM–9PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.4466403,
+          65.5536961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8670601,
+          64.1325159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "24 hours open",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9281879,
+          64.0914333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t9AM–10PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–11PM<br>Saturday\t9AM–11PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3432842,
+          66.0390347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9247254,
+          64.1475396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t9AM–7:30PM<br>Monday\t7:30AM–7:30PM<br>Tuesday\t7:30AM–7:30PM<br>Wednesday\t7:30AM–7:30PM<br>Thursday\t7:30AM–7:30PM<br>Friday\t7:30AM–7:30PM<br>Saturday\t7:30AM–7:30PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9055286,
+          64.1121118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "opening hours 7.30am - 10pm",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0881334,
+          64.314101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t9AM–9PM<br>Monday\t8AM–9PM<br>Tuesday\t8AM–9PM<br>Wednesday\t8AM–9PM<br>Thursday\t8AM–9PM<br>Friday\t8AM–9PM<br>Saturday\t9AM–9PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4254243,
+          65.2831025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8077588,
+          64.1371889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t9AM–10PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–10PM<br>Saturday\t9AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.5293972,
+          65.9671825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8426502,
+          64.1102429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\tClosed<br>Monday\t9AM–6PM<br>Tuesday\t9AM–6PM<br>Wednesday\t9AM–6PM<br>Thursday\t9AM–6PM<br>Friday\t9AM–6PM<br>Saturday\t10AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6511078,
+          65.7518776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olís",
+        "description": "Sunday\t10AM–9PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–10PM<br>Saturday\t10AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.6545857,
+          66.0697492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ollasjoppa",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.8330557,
+          65.7496369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday\t10AM–11PM<br>Monday\t8AM–11PM<br>Tuesday\t8AM–11PM<br>Wednesday\t8AM–11PM<br>Thursday\t8AM–11PM<br>Friday\t8AM–11PM<br>Saturday\t9AM–11PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6457809,
+          65.7470656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9915524,
+          66.0260461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.3548217,
+          65.9442452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0625393,
+          63.8361162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8310124,
+          64.1017279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1748813,
+          66.060785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.965531,
+          64.0636641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday<br>8AM–10PM<br>Monday<br>8AM–10PM<br>Tuesday<br>8AM–10PM<br>Wednesday<br>8AM–10PM<br>Thursday<br>8AM–10PM<br>Friday<br>8AM–10PM<br>Saturday<br>8AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2281747,
+          65.0346025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.7426215,
+          65.0967236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9170286,
+          64.1318781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2357019,
+          63.7517448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "24 hours open",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5426766,
+          63.9724255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "service gas station",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1219563,
+          65.6958116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1082046,
+          65.6796216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0106833,
+          63.9449812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9260407,
+          64.0899479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Saturday\t9AM–10PM<br>Sunday\t10AM–10PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.3781151,
+          63.858876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2466787,
+          64.9215352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9851061,
+          64.1513074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1916989,
+          63.9953881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8929799,
+          64.132656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday\t9AM–10PM<br>Monday\t9AM–10PM<br>Tuesday\t9AM–10PM<br>Wednesday\t9AM–10PM<br>Thursday\t9AM–10PM<br>Friday\t9AM–10PM<br>Saturday\t9AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0284011,
+          64.9327516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4249156,
+          63.8413655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8687422,
+          64.6991943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4060534,
+          65.2631138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.729007,
+          65.0745764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday<br>9AM–10PM<br>Monday<br>8AM–10PM<br>Tuesday<br>8AM–10PM<br>Wednesday<br>8AM–10PM<br>Thursday<br>8AM–10PM<br>Friday<br>8AM–10PM<br>Saturday<br>9AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.3980551,
+          65.2607253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "open 24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0550859,
+          64.32711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8671182,
+          64.1052149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7873345,
+          64.1498227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9498744,
+          64.0771481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7074061,
+          65.1473508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9183461,
+          64.131272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2771997,
+          63.4405664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday\t10AM–5PM<br>Monday\t10AM–5PM<br>Tuesday\t10AM–5PM<br>Wednesday\t10AM–5PM<br>Thursday\t10AM–5PM<br>Friday\t10AM–5PM<br>Saturday\t10AM–5PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.9989961,
+          65.2617445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "open 24 hours",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1211625,
+          65.3162586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8045331,
+          64.1446419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8838738,
+          64.1020835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1101419,
+          65.6692793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1852122,
+          63.9955184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8519142,
+          64.1106506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9840637,
+          64.149452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.953103,
+          64.1421785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9936864,
+          63.4174528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday\t9AM–10PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–10PM<br>Saturday\t9AM–10PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3443216,
+          66.0487009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8041905,
+          64.1238298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.036219,
+          65.5673596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0885252,
+          65.6904459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday\t10AM–10PM<br>Monday\t8AM–10PM<br>Tuesday\t8AM–10PM<br>Wednesday\t8AM–10PM<br>Thursday\t8AM–10PM<br>Friday\t8AM–10PM<br>Saturday\t8AM–11PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0217733,
+          65.0758559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday\t10AM–9PM<br>Monday\t8AM–9PM<br>Tuesday\t8AM–9PM<br>Wednesday\t8AM–9PM<br>Thursday\t8AM–9PM<br>Friday\t8AM–9PM<br>Saturday\t10AM–9PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9373879,
+          65.3921533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5419793,
+          64.7684182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6322948,
+          63.9989147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8952881,
+          64.1402377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8673121,
+          64.1532228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7328745,
+          65.0729511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.858545,
+          64.1457917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0695297,
+          64.3200806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6012094,
+          65.6854322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8959758,
+          63.9904133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8932496,
+          64.1321729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orkan",
+        "description": "Sunday\t10AM–11PM<br>Monday\t9AM–11PM<br>Tuesday\t9AM–11PM<br>Wednesday\t9AM–11PM<br>Thursday\t9AM–11PM<br>Friday\t9AM–11PM<br>Saturday\t9AM–11PM",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.704344,
+          64.8942215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shell",
+        "description": "self service",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1851892,
+          63.995782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shell",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8969539,
+          63.9906637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunnanátt",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.9997105,
+          65.2617464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Highland Center Hrauneyjar",
+        "folder": "Gas stations",
+        "stroke": "#e65100",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.2850494,
+          64.196968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albína Bakery And Shop",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.9779694,
+          65.5931114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2715148,
+          63.4418106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7291304,
+          65.0739998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.108487,
+          65.6922046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1744039,
+          66.0604171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9094305,
+          64.5413816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0555484,
+          64.3271981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "description": "Miðvangi 13, 700 Egilsstadir, Iceland<br>www.bonus.is",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4050137,
+          65.2635306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "description": "Hallveigarstigur 1, 101 Reykjavík, Iceland<br>www.bonus.is",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9340741,
+          64.1455486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1897951999999,
+          63.9955235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1092668,
+          65.6696017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8474149,
+          64.141744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5435287,
+          63.9726435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9226313,
+          64.1446229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9737758,
+          63.9381675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8692192,
+          64.131296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1390651,
+          65.6985974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.896789,
+          64.129323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8463554,
+          64.1350937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9121167,
+          64.072943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9073112,
+          64.1414928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9796125,
+          64.0527414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9420916,
+          64.0775404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8166374,
+          64.108897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9515957,
+          64.1535841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7897491,
+          64.150596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bónus",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7958431,
+          64.1180115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Búðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.81681,
+          65.5271791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euro Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8510794,
+          64.1109322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euro Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9030335,
+          64.1127059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Euro Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9124666,
+          64.1422856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europartar",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8873433,
+          64.1379734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Extra verslun",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1087776,
+          65.6793207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiska.is - Asian supermarket",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8972339,
+          64.1143063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiskás",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.382799,
+          63.8298354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiskbúð Suðurlands",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0188042,
+          63.9305001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fjarðarkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9408756,
+          64.0820662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fjölval Mini Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.0010910999999,
+          65.5982829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0892837,
+          65.6904234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8693684,
+          64.1294564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8933675,
+          64.1313273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7872222,
+          64.1508333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9844985,
+          64.1502857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Háskólabúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9510113,
+          64.1355144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjá Jóhönnu",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.8256749,
+          65.6269005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hlíðarkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6471811,
+          65.7345906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hólabúð",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.2015539,
+          65.4516646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iceland",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8312445,
+          64.0995355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iceland",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9362158,
+          64.0667672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iceland",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8680306,
+          64.1334516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Istanbul Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8740578,
+          64.1323713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaskó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3431224999999,
+          66.046614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kassinn",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.709313,
+          64.897395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaupfélag",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.4142313,
+          65.8975638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaupfélag",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9468018,
+          65.3958347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kauptún",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.8267177,
+          65.7537931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ketilás",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0167682,
+          66.0509538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjarval",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.232828,
+          63.7500293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjarval",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.4012288,
+          63.8347447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjarval",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0480437,
+          63.790355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7059674,
+          64.0393227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.3371303,
+          66.1984474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3058645,
+          65.8244635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.28438,
+          65.659889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.5314468,
+          65.9728773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0113277,
+          64.9299163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7627081,
+          65.1079814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjörbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9104866,
+          65.6417359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjötborg",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9512452,
+          64.1458895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krambúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1282568,
+          65.6868386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krambúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.0559692,
+          64.3214817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krambúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9285009,
+          64.1428181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krambúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6854265,
+          65.7007874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krambúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.918293,
+          64.1117686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krambúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0002313,
+          63.9323569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "description": "Hafnarfjordur, Iceland<br>kronan.is",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9421130000001,
+          64.076455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0019488,
+          63.9377095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.069972,
+          64.3217951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.219649,
+          65.0320609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9992992,
+          63.4175398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.5454313,
+          63.9730359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9838237,
+          64.0463409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.964592,
+          64.061993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9088071,
+          64.0982316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8733289,
+          64.1020111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8216975,
+          64.0844611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9037964,
+          64.1121973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9499722,
+          64.1551352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8678301,
+          64.1311174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2712098,
+          63.4424766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8150305,
+          64.125219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7900312,
+          64.1154406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.7614508,
+          64.1301489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8266286,
+          64.0973618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.3818201,
+          63.8574318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krónan",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6970765,
+          64.1657342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ljómalind Local Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9111103,
+          64.5433008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melabúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9604668,
+          64.1446684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mini Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8243515,
+          64.1012291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mini Market",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8508406,
+          64.11128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4344444,
+          63.8444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.890923,
+          64.138464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9030932,
+          64.1425313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.951794,
+          64.1544014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8422795,
+          64.1087986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1213289,
+          66.0734568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8594091,
+          64.093865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1034916999999,
+          65.6872971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.1187146,
+          65.6774326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.343087,
+          66.0393359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9116692,
+          64.5431494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9569895,
+          64.0787921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8335299,
+          64.0876462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4066395,
+          65.2605061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2127278,
+          64.252561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6909562,
+          64.1634789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nettó",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9900444,
+          63.9368915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samkaup",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.6448552,
+          66.0734544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samkaup Strax",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0087509,
+          65.2597841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samkaup Strax",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2601549999999,
+          64.9252739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samkaup Strax",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.911006,
+          65.6418542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samkaup Strax",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3212607,
+          64.1310787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samkaup Úrval",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9106099000001,
+          66.150746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samkaup Úrval",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.2490296,
+          66.1573822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAM Versla",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.173918,
+          66.0605182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skagfirðingabúð",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6376432,
+          65.741565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skálinn",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.062286,
+          63.8361194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skerjakolla ehf",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4477027,
+          66.3004849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vegan búðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8644472,
+          64.1284097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verslun",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.24689,
+          66.159176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verslun",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.910491,
+          65.6416551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verslunin Urð",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.950409,
+          66.4524154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verzlunin Borg",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7644626,
+          64.0746932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vínbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9112551,
+          65.6412298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vínbúðin",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.7298994,
+          65.0741361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiskbúð Sjávarfangs",
+        "folder": "Grocery stores",
+        "stroke": "#f57c00",
+        "stroke-width": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1207603,
+          66.0690891
+        ]
+      }
+    }
+  ]
+}

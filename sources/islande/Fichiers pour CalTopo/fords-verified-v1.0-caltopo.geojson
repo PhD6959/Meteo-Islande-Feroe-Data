@@ -1,0 +1,391 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+      "geometry": null,
+      "properties": {
+        "title": "fords-verified-v1.0",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8f423db-458f-4d4f-933e-42af13022b75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0742,
+          63.6833,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Krossá",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6558528b-bc84-4726-b2f7-839f19fb2616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.07,
+          64.74,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hagakvíslar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b1d4d84-e90d-448a-84bb-a08c89bdc9b3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.34,
+          65.18,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Lindaá",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0464340a-488c-49a0-b9a8-c01eda302174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.058,
+          63.988,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gués Landmannalaugar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7b9a52d-a9e6-45ce-be0a-01d4ccaa5d95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.806,
+          63.825,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hólmsá",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c6e2ad0-840b-4d54-812a-aa31bc53bafb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.328,
+          63.9,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kaldaklofskvísl",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85bbc1a6-ae45-46c0-9132-acb3d1f54f2d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.065,
+          63.785,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bláfjallakvísl",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "857545c0-ff69-4f3a-92d6-854db1944081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.92,
+          63.88,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Syðri-Ófæra",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15aca4ce-a78d-4cd8-bb4f-650625ffdac3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.185,
+          65.231,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gué nord F88",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8835f886-2c32-44e9-957e-a81b628ee870",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.647,
+          63.686,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Entrée Þórsmörk",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f857a82c-bfb1-412e-aa23-f8e1d60bcef9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.072,
+          64.738,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gué principal F26",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c43e5f00-aaf4-4dd6-91c2-85e5b529e06d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.47,
+          65.05,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gué F752",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a8711fc7-9a18-42db-9add-95dd4bd4a23c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.329,
+          64.04,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gué F225",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e6e103-ebe3-4724-95f1-64056ff602ad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.648,
+          64.791,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gué F909",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08eb719f-aea1-4d2e-bf89-2dbb054f92a8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.204,
+          63.899,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gué F206",
+        "description": "",
+        "class": "Marker",
+        "folderId": "c7da04cd-8a8e-4c4e-9eac-875c30f135eb",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    }
+  ]
+}

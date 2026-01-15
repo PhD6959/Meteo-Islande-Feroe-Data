@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Convertisseur GPX → KML + GeoJSON</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; background: #f5f5f5; }
+    h1 { color: #333; margin-bottom: 5px; }
+    .subtitle { color: #666; font-size: 14px; margin-bottom: 20px; }
+    .upload-zone { border: 2px dashed #ccc; border-radius: 10px; padding: 40px; text-align: center; background: #fff; cursor: pointer; transition: border-color 0.3s; }
+    .upload-zone:hover { border-color: #2563eb; }
+    .upload-zone.dragover { border-color: #2563eb; background: #eff6ff; }
+    input[type="file"] { display: none; }
+    .btn { display: inline-block; padding: 10px 20px; border-radius: 8px; font-weight: 600; cursor: pointer; border: none; font-size: 14px; }
+    .btn-primary { background: #2563eb; color: white; }
+    .btn-primary:hover { background: #1d4ed8; }
+    .btn-purple { background: #7c3aed; color: white; width: 100%; padding: 15px; margin-bottom: 10px; }
+    .btn-purple:hover { background: #6d28d9; }
+    .btn-blue { background: #2563eb; color: white; width: 100%; padding: 15px; margin-bottom: 10px; }
+    .btn-blue:hover { background: #1d4ed8; }
+    .results { display: none; background: #fff; border-radius: 10px; padding: 20px; margin-top: 20px; }
+    .results.show { display: block; }
+    .success { color: #16a34a; font-weight: 600; margin-bottom: 15px; }
+    .stats { background: #f0fdf4; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
+    .stats h3 { margin: 0 0 10px 0; font-size: 14px; }
+    .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 12px; }
+    .stats-row { display: flex; justify-content: space-between; }
+    .info-box { background: #f3f4f6; padding: 12px; border-radius: 8px; font-size: 12px; color: #666; margin-top: 15px; }
+    .info-box p { margin: 3px 0; }
+    .reset-link { display: block; text-align: center; margin-top: 15px; color: #666; cursor: pointer; font-size: 14px; }
+    .reset-link:hover { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Convertisseur GPX → KML + GeoJSON</h1>
+  <p class="subtitle">KML : icônes par catégorie • GeoJSON : folders préservés (CalTopo)</p>
+
+  <div class="upload-zone" id="uploadZone">
+    <p style="margin-bottom: 15px; color: #666;">Glisse ton fichier GPX ici ou clique pour sélectionner</p>
+    <label class="btn btn-primary">
+      Choisir un fichier GPX
+      <input type="file" id="fileInput" accept=".gpx">
+    </label>
+  </div>
+
+  <div class="results" id="results">
+    <div class="success">✓ Conversion terminée !</div>
+    <div class="stats">
+      <p style="margin: 0 0 10px 0;"><strong id="fileName"></strong></p>
+      <p style="margin: 0 0 10px 0; font-size: 14px;"><span id="statsTotal"></span></p>
+      <h3>Par catégorie :</h3>
+      <div class="stats-grid" id="statsGrid"></div>
+    </div>
+    <button class="btn btn-purple" id="downloadKml">📥 KML (<span id="kmlSize"></span>) — icônes couleurs</button>
+    <button class="btn btn-blue" id="downloadJson">📥 GeoJSON (<span id="jsonSize"></span>) — folders préservés</button>
+    <div class="info-box">
+      <p><strong>KML :</strong> Couleurs par catégorie, mais tous dans "Markers"</p>
+      <p><strong>GeoJSON :</strong> Folders séparés, affichage/masquage par catégorie</p>
+    </div>
+    <span class="reset-link" id="resetBtn">Convertir un autre fichier</span>
+  </div>
+
+  <script>
+    const categoryStyles = {
+      'Hot Springs': { icon: 'http://maps.google.com/mapfiles/kml/paddle/red-circle.png', color: 'FF0000', label: '🔴 Hot Springs' },
+      'Highlands': { icon: 'http://maps.google.com/mapfiles/kml/paddle/grn-circle.png', color: '00AA00', label: '🟢 Highlands' },
+      'Waterfalls': { icon: 'http://maps.google.com/mapfiles/kml/paddle/blu-circle.png', color: '0077FF', label: '🔵 Waterfalls' },
+      'Swimming Pools': { icon: 'http://maps.google.com/mapfiles/kml/paddle/ltblu-circle.png', color: '00DDFF', label: '🩵 Swimming Pools' },
+      '100 Favorite Must-Sees': { icon: 'http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png', color: 'FFD700', label: '⭐ 100 Favorites' },
+      'Campsites & Mountain Huts': { icon: 'http://maps.google.com/mapfiles/kml/paddle/grn-blank.png', color: '228B22', label: '🏕️ Campsites' },
+      'Attractions': { icon: 'http://maps.google.com/mapfiles/kml/paddle/purple-circle.png', color: '9932CC', label: '🟣 Attractions' },
+      'Gas, Shop, Toilet': { icon: 'http://maps.google.com/mapfiles/kml/paddle/wht-circle.png', color: '808080', label: '⚪ Gas/Shop/Toilet' },
+      'F-roads and Tracks': { icon: 'http://maps.google.com/mapfiles/kml/paddle/orange-circle.png', color: 'FF8800', label: '🟠 F-roads' },
+      'Autres': { icon: 'http://maps.google.com/mapfiles/kml/paddle/wht-blank.png', color: '444444', label: '⬜ Autres' }
+    };
+
+    let kmlContent = '', geojsonContent = '', currentFileName = '';
+
+    const escapeXml = (t) => t ? String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&apos;') : '';
+    const normalizeCategory = (c) => { const d = (c||'').replace(/&amp;/g,'&'); return categoryStyles[d] ? d : 'Autres'; };
+    const generateUUID = () => 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => { const r = Math.random()*16|0; return (c==='x'?r:(r&0x3|0x8)).toString(16); });
+
+    function processFile(file) {
+      currentFileName = file.name;
+      const reader = new FileReader();
+      reader.onload = (e) => convert(e.target.result);
+      reader.readAsText(file);
+    }
+
+    function convert(gpxText) {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(gpxText, 'text/xml');
+      const waypoints = doc.querySelectorAll('wpt');
+      const tracks = doc.querySelectorAll('trk');
+      
+      const categories = {};
+      waypoints.forEach(wpt => {
+        const lat = parseFloat(wpt.getAttribute('lat'));
+        const lon = parseFloat(wpt.getAttribute('lon'));
+        const name = wpt.querySelector('name')?.textContent || 'Sans nom';
+        const desc = wpt.querySelector('desc')?.textContent || '';
+        const type = normalizeCategory(wpt.querySelector('type')?.textContent);
+        const cmt = wpt.querySelector('cmt')?.textContent || '';
+        const ele = wpt.querySelector('ele')?.textContent || '';
+        if (!categories[type]) categories[type] = [];
+        categories[type].push({ lat, lon, name, desc, type, cmt, ele });
+      });
+
+      kmlContent = generateKML(categories, tracks);
+      geojsonContent = generateGeoJSON(categories, tracks);
+
+      // Afficher résultats
+      document.getElementById('fileName').textContent = currentFileName;
+      document.getElementById('statsTotal').textContent = `${waypoints.length} waypoints • ${tracks.length} tracks`;
+      document.getElementById('kmlSize').textContent = (kmlContent.length/1024).toFixed(0) + ' Ko';
+      document.getElementById('jsonSize').textContent = (geojsonContent.length/1024).toFixed(0) + ' Ko';
+      
+      const grid = document.getElementById('statsGrid');
+      grid.innerHTML = Object.entries(categories)
+        .map(([cat, pts]) => `<div class="stats-row"><span>${categoryStyles[cat]?.label || cat}</span><span>${pts.length}</span></div>`)
+        .sort((a,b) => b.count - a.count)
+        .join('');
+      
+      document.getElementById('results').classList.add('show');
+      document.getElementById('uploadZone').style.display = 'none';
+    }
+
+    function generateKML(categories, tracks) {
+      let styles = '';
+      for (const [cat, style] of Object.entries(categoryStyles)) {
+        const id = cat.replace(/[^a-zA-Z0-9]/g, '_');
+        styles += `<Style id="style_${id}"><IconStyle><scale>1.0</scale><Icon><href>${style.icon}</href></Icon></IconStyle></Style>\n`;
+      }
+
+      let kml = `<?xml version="1.0" encoding="UTF-8"?>\n<kml xmlns="http://www.opengis.net/kml/2.2">\n<Document>\n<name>Converted GPX</name>\n${styles}`;
+
+      for (const [cat, points] of Object.entries(categories)) {
+        const styleId = cat.replace(/[^a-zA-Z0-9]/g, '_');
+        kml += `<Folder><name>${escapeXml(cat)} (${points.length})</name><open>0</open>\n`;
+        for (const pt of points) {
+          const desc = [pt.desc, pt.cmt ? `Commentaire: ${pt.cmt}` : '', pt.ele ? `Altitude: ${pt.ele}m` : ''].filter(Boolean).join('\n\n');
+          kml += `<Placemark><name>${escapeXml(pt.name)}</name><description><![CDATA[${desc}]]></description><styleUrl>#style_${styleId}</styleUrl><Point><coordinates>${pt.lon},${pt.lat},${pt.ele||0}</coordinates></Point></Placemark>\n`;
+        }
+        kml += `</Folder>\n`;
+      }
+
+      if (tracks.length > 0) {
+        kml += `<Folder><name>Tracks (${tracks.length})</name><open>0</open>\n`;
+        tracks.forEach((trk, i) => {
+          const name = trk.querySelector('name')?.textContent || `Track ${i+1}`;
+          trk.querySelectorAll('trkseg').forEach(seg => {
+            const coords = Array.from(seg.querySelectorAll('trkpt')).map(pt => `${pt.getAttribute('lon')},${pt.getAttribute('lat')},${pt.querySelector('ele')?.textContent||0}`).join(' ');
+            if (coords) kml += `<Placemark><name>${escapeXml(name)}</name><Style><LineStyle><color>ff0088ff</color><width>3</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>${coords}</coordinates></LineString></Placemark>\n`;
+          });
+        });
+        kml += `</Folder>\n`;
+      }
+
+      return kml + `</Document>\n</kml>`;
+    }
+
+    function generateGeoJSON(categories, tracks) {
+      const features = [];
+      const folderIds = {};
+
+      for (const cat of Object.keys(categories)) {
+        const fid = generateUUID();
+        folderIds[cat] = fid;
+        features.push({ type: "Feature", id: fid, geometry: null, properties: { title: cat, class: "Folder", visible: true, labelVisible: true } });
+      }
+
+      for (const [cat, points] of Object.entries(categories)) {
+        const style = categoryStyles[cat] || categoryStyles['Autres'];
+        for (const pt of points) {
+          const desc = [pt.desc, pt.cmt ? `Commentaire: ${pt.cmt}` : '', pt.ele ? `Altitude: ${pt.ele}m` : ''].filter(Boolean).join('\n\n');
+          features.push({
+            type: "Feature", id: generateUUID(),
+            geometry: { type: "Point", coordinates: [pt.lon, pt.lat, 0, 0] },
+            properties: { title: pt.name, description: desc, class: "Marker", folderId: folderIds[cat], "marker-symbol": "point", "marker-color": style.color, "marker-size": "1", "marker-rotation": null }
+          });
+        }
+      }
+
+      if (tracks.length > 0) {
+        const tfid = generateUUID();
+        features.push({ type: "Feature", id: tfid, geometry: null, properties: { title: "Tracks", class: "Folder", visible: true, labelVisible: true } });
+        tracks.forEach((trk, i) => {
+          const name = trk.querySelector('name')?.textContent || `Track ${i+1}`;
+          trk.querySelectorAll('trkseg').forEach(seg => {
+            const coords = Array.from(seg.querySelectorAll('trkpt')).map(pt => [parseFloat(pt.getAttribute('lon')), parseFloat(pt.getAttribute('lat')), 0, 0]);
+            if (coords.length) features.push({ type: "Feature", id: generateUUID(), geometry: { type: "LineString", coordinates: coords }, properties: { title: name, class: "Shape", folderId: tfid, stroke: "#FF8800", "stroke-width": 3 } });
+          });
+        });
+      }
+
+      return JSON.stringify({ type: "FeatureCollection", features }, null, 2);
+    }
+
+    function download(content, filename, type) {
+      const blob = new Blob([content], { type });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = filename;
+      a.click();
+      URL.revokeObjectURL(a.href);
+    }
+
+    // Event listeners
+    document.getElementById('fileInput').addEventListener('change', (e) => { if (e.target.files[0]) processFile(e.target.files[0]); });
+    document.getElementById('uploadZone').addEventListener('dragover', (e) => { e.preventDefault(); e.currentTarget.classList.add('dragover'); });
+    document.getElementById('uploadZone').addEventListener('dragleave', (e) => { e.currentTarget.classList.remove('dragover'); });
+    document.getElementById('uploadZone').addEventListener('drop', (e) => { e.preventDefault(); e.currentTarget.classList.remove('dragover'); if (e.dataTransfer.files[0]) processFile(e.dataTransfer.files[0]); });
+    document.getElementById('downloadKml').addEventListener('click', () => download(kmlContent, currentFileName.replace(/\.gpx$/i, '.kml'), 'application/vnd.google-earth.kml+xml'));
+    document.getElementById('downloadJson').addEventListener('click', () => download(geojsonContent, currentFileName.replace(/\.gpx$/i, '.geojson'), 'application/geo+json'));
+    document.getElementById('resetBtn').addEventListener('click', () => { document.getElementById('results').classList.remove('show'); document.getElementById('uploadZone').style.display = 'block'; document.getElementById('fileInput').value = ''; });
+  </script>
+</body>
+</html>

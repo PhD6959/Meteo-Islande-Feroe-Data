@@ -1,0 +1,3791 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+      "geometry": null,
+      "properties": {
+        "title": "feroe-services-geojson",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "838f5871-26f0-4fa4-9aa1-4c736d1b994b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bónus - SMS",
+        "description": "Supermarché discount, logo cochon jaune",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a31c268-ca4c-4da3-85e1-99e2767a11f4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.754,
+          62.018,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bónus - Hoyvík",
+        "description": "Supermarché discount",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9986cd9d-a202-490f-a44a-916a72d5fd8d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bónus - Klaksvík",
+        "description": "Supermarché discount",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31810bd7-5529-4fff-8bbc-0d628a5a8272",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.72,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bónus - Saltangará",
+        "description": "Supermarché discount",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2090a3c5-149d-4fc4-b381-a30c79af4f7f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192,
+          62.052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bónus - Miðvágur",
+        "description": "Supermarché discount",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "922ecfad-1142-4c14-9b64-bad213f61e28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.812,
+          61.556,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bónus - Tvøroyri",
+        "description": "Supermarché discount",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a611c3f6-9a46-44cf-8c22-24e5658038e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.474,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bónus - Vágur",
+        "description": "Supermarché discount",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f8d7c6f-90a6-4fd3-8989-281e192776c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768,
+          62.013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "FK - Tórshavn Centre",
+        "description": "Coopérative, large choix, café/boulangerie",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f0e75340-0cb1-45c7-b4c1-221c111f5450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.754,
+          62.018,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "FK - Hoyvík",
+        "description": "Coopérative, grand magasin",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1d0c8126-68c6-472e-ad0a-62526f3e2d2f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "FK - Klaksvík",
+        "description": "Coopérative, boulangerie, produits locaux",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ddbe54c-a1f8-4c3b-950f-7e31df0ea855",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192,
+          62.052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "FK - Miðvágur",
+        "description": "Coopérative, café intégré",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ec0648e-f650-405f-8e9d-2cbdaf5b62a6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.145,
+          62.058,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "FK - Sandavágur",
+        "description": "Coopérative",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71dc22da-075e-480d-bd42-64a0b0961dd8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          62.24,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "FK - Fuglafjørður",
+        "description": "Coopérative",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7baebafb-fd9a-4ae5-81de-71981b7ea374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.84,
+          61.588,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "FK - Trongisvágur",
+        "description": "Coopérative",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8116987-8de0-401c-8735-bd4d0a79192e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Miklagarður (SMS)",
+        "description": "Grand supermarché dans le centre commercial SMS",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55a21487-f267-4803-a105-7cbe99a6a703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768,
+          62.013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Á Landavegur",
+        "description": "Ouvert tôt et tard, pratique",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89cd9264-6143-4468-92f0-351475a72acb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87,
+          61.91,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Á - Skopun",
+        "description": "Épicerie + vêtements enfants, chaussures, jouets",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed2d9a76-8bc9-4c2d-bda5-c63a64c8c9fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.92,
+          61.84,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Eldhús - Sandur",
+        "description": "Épicerie générale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4591cc6b-91a7-46ec-82ab-79c3dc871f67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.812,
+          61.556,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Við Sílá - Tvøroyri",
+        "description": "Épicerie générale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b0bbaa0-1375-41dc-8ea2-e7fe6ae5cb8f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95,
+          61.602,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Við Bakkhús - Hvalba",
+        "description": "Épicerie générale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c8d8bbb-4a4e-46af-aa62-2fc7c3e6c193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.474,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Épicerie Vágur",
+        "description": "Supermarché",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "000c0822-ee8a-41f7-938c-ae29ac1788a3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.474,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Suðuroyar Heimavirki - Vágur",
+        "description": "Épicerie locale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e56e6d7-49fb-491a-b459-5e4f8596941f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.82,
+          61.465,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Zacharias Müller - Porkeri",
+        "description": "Épicerie locale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69159629-f923-434c-adb0-d51c8ce2e54f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.665,
+          62.098,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Matvørubúðin - Nólsoy",
+        "description": "Seule épicerie de l'île de Nólsoy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "045ac6a1-9f2b-46f0-815c-804bae425294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          61.77,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Meinhard Hentze - Skúvoy",
+        "description": "Seule épicerie de l'île de Skúvoy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d27dc21c-8d73-4e78-9a87-75b8e38ef65e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "CAJ sp/f - Kollafjørður",
+        "description": "Épicerie locale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb467266-ae56-486d-8c6d-72a685788a49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.07,
+          62.156,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magnstøðin - Vestmanna",
+        "description": "Station-service avec épicerie",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0efdd4f4-1aef-428f-87f6-b9af5c12dd09",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.306,
+          62.072,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "PE Sørvágur",
+        "description": "Épicerie locale près de l'aéroport",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa7db211-be30-4fe3-a65f-09258d1fcbf4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.86,
+          62.085,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "PE Norðagøta",
+        "description": "Épicerie locale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf85397e-fc0e-49e1-97fe-80006210bd9c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.76,
+          62.14,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Strandacentrum - Strendur",
+        "description": "Centre commercial local",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b06cb349-0c3d-43ad-8384-c7c04f6186b5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.89,
+          62.115,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skálin sp/f - Skála",
+        "description": "Épicerie locale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb46becf-e0de-4a26-b6ab-79e2dc0471fb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87,
+          62.27,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Eivind Petersen - Oyndarfjørður",
+        "description": "Épicerie locale, village isolé",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a65a726-e4f1-4165-8d03-6e6187ac4215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          62.24,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Haraldsen - Fuglafjørður",
+        "description": "Épicerie locale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "532eaedd-f3ab-4359-9b68-a6369ffdaba9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.935,
+          62.068,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn við Streymin - Oyrabakki",
+        "description": "Station-service avec épicerie, pont vers Eysturoy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "076d6899-35bc-4dca-9b87-45d3e7486a15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.754,
+          62.018,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rúsan - Hoyvík",
+        "description": "Monopole d'alcool national, vins, spiritueux, bières locales",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76261788-048e-4f9e-bb25-3cf0cc9d5f47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768,
+          62.013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rúsan - Tórshavn",
+        "description": "Monopole d'alcool national",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7824d858-7cd4-48b4-980d-26d2827f13eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rúsan - Klaksvík",
+        "description": "Monopole d'alcool, bières féroïennes",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "157d3808-2802-44f3-9ea1-332e75020adc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.72,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rúsan - Saltangará",
+        "description": "Monopole d'alcool national",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d301fb23-acb0-4f48-b87f-65ed0618de70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192,
+          62.052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rúsan - Miðvágur",
+        "description": "Près du FK, monopole d'alcool",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4024e7fa-1f31-43fa-86d8-f52794106dca",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.92,
+          61.84,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rúsan - Sandur",
+        "description": "Monopole d'alcool national",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a04fdab-f6c8-4958-a527-3eb3d90ea450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.84,
+          61.588,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rúsan - Trongisvágur",
+        "description": "Monopole d'alcool national",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3467c67-948f-409a-a16f-52cac1f1b71f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.776,
+          62.0102,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "OY Taproom",
+        "description": "Brasserie locale, bières craft féroïennes, ambiance conviviale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18d6badb-6cd5-4358-8b11-a5eedff0331d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7718,
+          62.0076,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mikkeller",
+        "description": "Bières craft internationales et locales",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c220a31a-e809-41d3-b264-7ed51be4c2f3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.772,
+          62.0078,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Panamé Café",
+        "description": "Maison rouge toit d'herbe, pâtisseries maison, croissants",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7675e569-50dc-4110-88c8-a5bb77992d8f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7728,
+          62.0085,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kaffihúsið",
+        "description": "Café, souvenirs",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "538bc612-c7da-4f94-9c9b-08ecffce6385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7735,
+          62.009,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gómagott",
+        "description": "Café",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da7be83e-3e0b-4f3c-a8ea-2ecb11cd830c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.774,
+          62.0092,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kafé Umami",
+        "description": "Café",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bae489b-beeb-4baf-bf85-51d2325c2958",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7745,
+          62.0095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kafé Kaspar",
+        "description": "Café",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc22e040-6b1d-4d74-a9df-e2ddb6c81328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.775,
+          62.0098,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Systrar",
+        "description": "Café bio/organique",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91e78bc2-a9a7-4395-a625-37f623d30beb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7722,
+          62.008,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Ástaklokkan",
+        "description": "Love Clock Café, cuisine féroïenne/européenne",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a7c5ce8-7d5d-4fec-be1b-8e046ccce313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7732,
+          62.0088,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Brell",
+        "description": "Café",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0850c0fd-3898-481b-9314-4073c883f1da",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7755,
+          62.01,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "No 12",
+        "description": "Unique bar à jus des Féroé",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c064c973-c4a3-41f3-83fd-96555f0f6e90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Café Fríða",
+        "description": "Café cosy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee3d34ef-1998-402c-bc89-d844aa6cdaa5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.72,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Café Cibo",
+        "description": "Café",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8150dbd-e4d1-4ad8-9468-37b5e6c3a9c8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.812,
+          61.556,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kafé Mormor",
+        "description": "Café",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0bbeded5-e88a-466b-baa9-db0261db9443",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.773,
+          62.01,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Útirok",
+        "description": "Équipement outdoor complet: randonnée, kayak, ski, plongée",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dce6cdc8-f583-4d2a-b1c9-d48380fa3176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.775,
+          62.0085,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Jógvan Weihe",
+        "description": "Outdoor, nautique, pêche, camping - référence locale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4def540-17fd-450b-aaa5-49b4ac44dfc2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.772,
+          62.0095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Valdemar Lützen",
+        "description": "Outils, machines, équipement industriel, pêche",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81d1b61d-c04e-4427-a2e8-1396f9baf823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Intersport",
+        "description": "Équipement sportif",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b4c6532-c7ae-4abb-b970-1855dad3dbf3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768,
+          62.013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bátatænastan",
+        "description": "Équipement nautique et bateau",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f8f6de9-9d0d-4767-8134-4a3423186af1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.306,
+          62.072,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handilsvirkið Niclasen",
+        "description": "Outdoor, équipement de pêche",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6d9baf2-9b56-40ed-b15a-07d041e26859",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7735,
+          62.0088,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Guðrun & Guðrun",
+        "description": "Tricots féroïens haut de gamme, Star jumper célèbre",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc6f9245-a75c-4179-bff9-7f6dd27a53b7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.774,
+          62.0092,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Navia",
+        "description": "Laine féroïenne, pulls 3D, tricots durables",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9eae4a8-7d94-45e9-92fd-8e395325d105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7738,
+          62.009,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sirri",
+        "description": "Créations traditionnelles en laine féroïenne",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b914038-2bd3-4140-a6ba-63ed1c57fb2a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7742,
+          62.0094,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Marjun Heima",
+        "description": "Artisanat traditionnel féroïen",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49be0b1f-8a51-4980-ad6b-4101d0333869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7745,
+          62.0095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Østrøm",
+        "description": "Design féroïen, produits locaux",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "442a4047-e39b-4afb-bd3a-e3bbcdf8b351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7748,
+          62.0097,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Einfalt Steinprent",
+        "description": "Art visuel féroïen, galerie",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a58130bc-202c-4858-b400-b69795a99a9a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.775,
+          62.0098,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Leirlist",
+        "description": "Céramiques féroïennes artisanales",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "647b064a-b418-4751-8a42-8d0a613b7cd8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7752,
+          62.0099,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rabarbuglas",
+        "description": "Verrerie artisanale féroïenne",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acc9a50e-be32-48a4-ae1b-c87250a0e1d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7754,
+          62.01,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mikkalina Glas",
+        "description": "Verrerie artisanale",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee18e2a0-5766-4270-825e-da618f22e7d3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7756,
+          62.0101,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Glarsmiðjan",
+        "description": "Atelier de verre",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f841531-956a-4ad8-80f6-32ea43096c36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7755,
+          62.01,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tutl",
+        "description": "Musique féroïenne, disques, souvenirs musicaux",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b12acb18-0044-4e4e-a59d-15b077df2e72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.776,
+          62.0102,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "H.N. Jacobsens Bókahandil",
+        "description": "Plus ancienne librairie des Féroé",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39658811-b733-49b9-9795-b092440c894f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7758,
+          62.0101,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Niels L. Arge",
+        "description": "Horlogerie et bijouterie depuis 1932",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6f4f0f1-4895-4f17-8da1-286ffe10e2c6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7759,
+          62.0102,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Nomi Smykkur & Ur",
+        "description": "Bijouterie depuis 2008",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "759e392d-71fd-4346-8d8f-415414fd5cf6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7762,
+          62.0103,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tinghúsið á Hjalla",
+        "description": "Friperie, objets donnés",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e9040e7-8bc1-4e14-95be-f994c03e425c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Elding - Tórshavn",
+        "description": "Électronique (El-giganten/Dixons), appareils photo, électroménager",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b5022c4-9a13-4c1f-a8d7-2b49ba98b2ab",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Elding - Klaksvík",
+        "description": "Électronique, gadgets, accessoires",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afb4c3aa-686f-4ea5-9cc4-c35624d81a70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "SMS Shopping Center",
+        "description": "Plus grand centre commercial: vêtements, librairie, jouets, pharmacie, supermarché, électronique, Burger King",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c9109be-1567-419d-8c10-207090ae6f52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768,
+          62.013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "XL-BYG BORG",
+        "description": "Matériaux de construction, bricolage",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea792eb8-a9f5-4812-8220-06129f71acfb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tjaldurs Apotek",
+        "description": "Pharmacie centrale des Féroé",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8575d37-c366-491d-a291-ea8792b49265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.773,
+          62.009,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Steinatún Apotek",
+        "description": "Pharmacie",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9fe343f2-afc0-4067-be37-b4f60dcca06a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.72,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Eysturoyar Apotek",
+        "description": "Pharmacie d'Eysturoy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4569024f-e4a9-4523-95fd-17aa3709d37c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Norðoya Apotek",
+        "description": "Pharmacie des îles du Nord",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96d1d9cc-73e6-49b2-a930-7c887e1934f5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.812,
+          61.556,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Suðuroyar Apotek",
+        "description": "Pharmacie de Suðuroy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69171def-57ae-49bd-9170-2f8c39313329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192,
+          62.052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Apotek Miðvágur",
+        "description": "Nouvelle pharmacie de Vágar (ouverture récente)",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92464526-3f17-405d-9ce7-60e6e4139f28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87,
+          61.91,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Skopun (Á handilin)",
+        "description": "Médicaments sans ordonnance, sélection limitée",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fee406f6-7d0f-4387-a5cf-944bdf4ed072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.92,
+          61.84,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Sandur (Eldhús)",
+        "description": "Médicaments sans ordonnance, sélection limitée",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab8cc277-b8b7-4705-98a1-9bbaa155d31b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          61.77,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Skúvoy",
+        "description": "Médicaments sans ordonnance, île isolée",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "777d103c-0afb-42dc-9ebd-5b2e12d3052d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.665,
+          62.098,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Nólsoy",
+        "description": "Médicaments sans ordonnance, île proche de Tórshavn",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "614ce5f7-1976-4f54-bc28-7498559ea4cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Kollafjørður (CAJ)",
+        "description": "Médicaments sans ordonnance, sélection limitée",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb15c8e7-8103-4d36-a162-0cdaf09f6cc7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.07,
+          62.156,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Vestmanna (Magnstøðin)",
+        "description": "Médicaments sans ordonnance, station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8affe496-dc64-4e86-b611-1d4eda3086bc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.935,
+          62.068,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Oyrabakki (Magn)",
+        "description": "Médicaments sans ordonnance, pont vers Eysturoy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b05a60da-3285-4c61-ae16-b6a82e76f8a2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.145,
+          62.058,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Sandavágur (FK)",
+        "description": "Médicaments sans ordonnance, supermarché FK",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "851869eb-94bc-446b-abdd-f8eba7f85414",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192,
+          62.052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Miðvágur (FK)",
+        "description": "Médicaments sans ordonnance, supermarché FK",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae8fa1d3-beec-4788-878a-1d3a82720423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.306,
+          62.072,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Sørvágur (PE)",
+        "description": "Médicaments sans ordonnance, proche aéroport",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7bf9d38-00ce-40b0-b987-c84eac771db7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.86,
+          62.085,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Norðagøta (PE)",
+        "description": "Médicaments sans ordonnance",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "631e6224-63e4-423f-a4e2-c5aaa6d7cd93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.76,
+          62.14,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Strendur",
+        "description": "Médicaments sans ordonnance",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f44a7187-6013-4341-b684-067c9f7b0ed7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.89,
+          62.115,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Skála",
+        "description": "Médicaments sans ordonnance",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "09567e25-42d9-4a26-a874-ce54f6dcd2dd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.68,
+          62.2,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Leirvík (Effo)",
+        "description": "Médicaments sans ordonnance, station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "178cb723-36e3-413a-aae5-817179b53b40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87,
+          62.27,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Oyndarfjørður",
+        "description": "Médicaments sans ordonnance, village isolé",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eebc716a-0129-4991-91f5-279c310f0ed3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          62.24,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Fuglafjørður (Haraldsen)",
+        "description": "Médicaments sans ordonnance",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28a032b7-b5a6-46b9-b8d4-b3e46ffc979a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.474,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Vágur (Heimavirki)",
+        "description": "Médicaments sans ordonnance",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47cd1bc5-3d28-45a1-808e-309a89f43c3a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95,
+          61.602,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Hvalba",
+        "description": "Médicaments sans ordonnance",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e24c81ab-5275-4c9d-b5e3-f6a5cc8c8677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.82,
+          61.465,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Handkeypssøla - Porkeri",
+        "description": "Médicaments sans ordonnance, sud de Suðuroy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5fbd4eb9-86a4-4dab-81a1-3f08944f5da8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7742,
+          62.0098,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "KOKS",
+        "description": "2 étoiles Michelin, cuisine féroïenne contemporaine, réservation obligatoire",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0d6dc01-f84e-494f-8bfe-96df1b569c9c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7738,
+          62.0095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "PAZ Restaurant",
+        "description": "Chef Poul Andrias Ziska, produits locaux premium",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44eb8471-a4da-4045-b00f-120352eb5125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7735,
+          62.0092,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "ROKS",
+        "description": "Sœur de KOKS, fruits de mer féroïens, ambiance décontractée",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "537e0f09-913d-4a22-82e7-df2aa01db699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.772,
+          62.0078,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Ræst",
+        "description": "Spécialiste cuisine fermentée, maison du 16e siècle",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f11e2f4-c9d0-4ab1-a4e1-12b8c8618652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7718,
+          62.0076,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Barbara Fish House",
+        "description": "Fruits de mer locaux, menu dégustation, vieux Tórshavn",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f578d5fa-b241-4ab3-a3e1-e52535537e48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7722,
+          62.008,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Áarstova",
+        "description": "Agneau braisé célèbre, maison historique, ambiance intime",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee7a888a-6ee7-49a0-be6b-0aee3dc4fb78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7728,
+          62.0085,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tarv",
+        "description": "Steakhouse, vue sur mer, gin local",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3053050e-173f-4093-8c79-26620339dbb3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7732,
+          62.0088,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Katrina Christiansen",
+        "description": "Tapas féroïens, menu végétarien, réservation conseillée",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3af223df-ad91-4f2d-84fa-3f77ee76e848",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.774,
+          62.0092,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Etika",
+        "description": "Meilleur sushi, fruits de mer féroïens frais",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "698ed23d-b6f6-4ae8-a378-6faedf84c8a8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.773,
+          62.009,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bitin",
+        "description": "Smørrebrød nordiques, salades, options végétariennes",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48040c5c-2818-474d-a06c-5bc70aa9699e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7731,
+          62.0089,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Suppugarðurin",
+        "description": "Ramen japonais traditionnel",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "735cdef8-baae-484e-a066-3b67b4ae358a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7738,
+          62.0095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "hvonn",
+        "description": "Cuisine asiatique, nems, nouilles, wok",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aed5aaed-90e6-4cb6-8f69-238557958098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7745,
+          62.01,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Restaurant Ruts",
+        "description": "Options végétariennes et vegan",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08ad7a0d-342a-4628-9d28-7a496d7abac0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.775,
+          62.0105,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Reyðleyk",
+        "description": "Takeaway burgers et pizza, vue sur Nólsoy",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3445813-a4f5-42fa-b7d0-218a90fa4b9f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Burger King",
+        "description": "Un des deux seuls fast-food internationaux aux Féroé",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9e468cb-7c7d-4b21-badd-55d2089975c6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7755,
+          62.0098,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "City Burger",
+        "description": "Fast food local",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5c06c1b-361b-45de-a21c-3d13ac63389f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7725,
+          62.0082,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Irish Pub",
+        "description": "Fish & chips, bières, ambiance pub",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd4e11e1-6a67-4150-8c65-23d9272c821d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.145,
+          62.058,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fiskastykkið",
+        "description": "Poisson frais, cadre magnifique",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa0cbe2e-9ae5-4e22-9008-26c70dfcb7b1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192,
+          62.052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Smiðjan",
+        "description": "Fast food",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b9c7baf-3578-47c7-8c79-3732b49e3c25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5895,
+          62.2275,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fish & Chips Klaksvík",
+        "description": "Excellent fish & chips, takeaway",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1400997-abb4-4c96-82d2-800651f99075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.955,
+          62.328,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gjóbiti",
+        "description": "Restaurant local, produits frais",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc33e9d5-95a7-4e88-a5fe-e30daddef653",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768,
+          62.013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Anna og Óli - Heimablídni",
+        "description": "Repas chez l'habitant, 5 plats, agneau de leur ferme",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f399522f-a416-419b-bdf2-944b0ac28859",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7685,
+          62.0135,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Durita og Fróði - Heimablídni",
+        "description": "Tables d'hôtes, cuisine traditionnelle féroïenne",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f438217a-ca72-4f61-894e-4dee7320c2d5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768,
+          62.013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Tórshavn Gundadalur",
+        "description": "Station verte/bleue, snacks, café, fast food",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f117ad91-be39-47eb-bc23-c63e9f44d07b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Tórshavn",
+        "description": "Station rouge, snacks, fast food, épicerie",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83401f95-16b1-4161-a894-52f2f85216cf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.769,
+          62.0115,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Tórshavn (2)",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da096b66-a77c-4874-b26a-d46f5eda4bd8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Kollafjørður",
+        "description": "Station avec salle de repos, restauration",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5797b91-a075-452a-b771-7e72aaa5164e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.07,
+          62.156,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Vestmanna",
+        "description": "Station-service avec épicerie",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "271e2b79-9ae6-478c-870e-4636128c9e17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.93,
+          62.06,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Sunda",
+        "description": "Station-service près du tunnel",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ebc8b97-1f24-46b0-bf63-70eb1661260b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Klaksvík",
+        "description": "Station-service avec boutique",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1330093f-1e78-43f2-bdbe-fd0d3fcfe3cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.59,
+          62.226,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Klaksvík",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6dda891b-a5f1-40f6-84b9-774cc2a0fc12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.72,
+          62.11,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Runavík",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "547b46ca-2f64-4065-a4ca-4c197abef503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.721,
+          62.109,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Runavík",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2da0a7d-e232-44f2-99be-f50febe7341a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.68,
+          62.2,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Leirvík",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4c85b56-861d-4829-8a51-470c64a4543b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.76,
+          62.14,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Strendur",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ff690eef-a944-466e-89fd-7e61a37159bf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.86,
+          62.085,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Norðragøta",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f30a673-0465-47da-a9a9-86b7af5eeca5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.192,
+          62.052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Miðvágur",
+        "description": "Essence, glaces, snacks, fast food, café, épicerie",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "421f9b32-5e33-4a0f-92b6-fb9b0b6404a7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.306,
+          62.072,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Sørvágur",
+        "description": "Proche aéroport, station avec repos",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d90546e-3fe4-442b-906a-8f51a1865004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.92,
+          61.84,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Sandur",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "daa2440c-78ab-4e42-a809-c36586e37cff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.921,
+          61.841,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Sandur",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34e19144-53a4-4b71-a89f-381aafbffebb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.812,
+          61.556,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Tvøroyri",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df71d9f0-6f03-4eba-9e53-7fc9373a28e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.813,
+          61.555,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Tvøroyri",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a766f52-83e0-492a-ab76-14ac4926c8ed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.474,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Vágur",
+        "description": "Station-service avec boutique et produits locaux",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a31b6ff-9a0b-41c7-9b2a-8f2dd0a918fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.806,
+          61.473,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Vágur",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3cc5d57-55e2-4312-b611-bd817d816972",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95,
+          61.602,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo - Hvalba",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f91cc44-27ab-4d05-b81a-258ec0f18484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.84,
+          61.588,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn - Trongisvágur",
+        "description": "Station-service",
+        "class": "Marker",
+        "folderId": "0fa3157e-b2e9-404b-b9aa-9e91ff9a4ef5",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    }
+  ]
+}

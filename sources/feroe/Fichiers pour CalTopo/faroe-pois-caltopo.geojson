@@ -1,0 +1,5416 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+      "geometry": null,
+      "properties": {
+        "title": "faroe-pois",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12cf55da-731f-48e8-8ef4-952033e57238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7574888,
+          61.4562894,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Akrar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73b8d7b1-c67a-4943-8668-9296f33667b9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5798985,
+          62.2529059,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Ánirnar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bea526c7-b177-4371-9730-33005b1a5449",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5362969,
+          62.2554013,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Árnafjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c39fcd0a-1950-4b40-a7b6-7ea4b0641ff7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3714549,
+          62.087978,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Bøur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c41f0bd3-1d9a-4412-9e4b-a1432dad8d50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6764193,
+          61.784302,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Dalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4616623f-8733-4713-9f16-438cf4b13788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52893,
+          62.2868903,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Depil",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "851b4db9-862e-4fdf-ab73-4bf7c2b7d26c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.754486,
+          61.6853223,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Stóra Dímun",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34e60801-f875-4824-97e0-e359b4a07a2e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0910428,
+          62.2996078,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Eiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a8a452f-f5c4-4539-959f-f4c927ad0e0a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9118325,
+          62.2822792,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Elduvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06ed69d5-6359-417e-b5b2-2b68533ee6f7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8792705,
+          61.5246866,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fámjin",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a10269b-5317-4e27-a252-3c6b4ddf301c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7752699,
+          61.5468719,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Froðba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a8c957ca-1b8a-4da0-afd0-0873361bfe83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8133219,
+          62.2438445,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fuglafjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70b324eb-7643-4364-ad79-4f68ebda072f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9315162,
+          62.2364899,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Funningsfjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db8ccc88-9497-4495-b0b0-172e5a67f273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9663444,
+          62.28707,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Funningur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b31f5a6-624d-4e54-81b3-f3c478634869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4360093,
+          62.109738,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gásadalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4bfab300-c2af-4af9-a4e6-6028f6344c47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7240054,
+          62.1283603,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Glyvrar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8196d70f-96bc-43cc-b113-ddc588984fdd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9430295,
+          62.3257427,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce3aa33c-82cc-4a63-ae8d-7b272c2cdf3c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7470683,
+          62.1925148,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gøtugjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d90256e-d41f-4cf1-b6b7-e8f47675fb6c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7757013,
+          62.1760277,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Undir Gøtueiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57369ee9-a9cc-4c14-aa2e-581c33e96e4d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6062861,
+          62.2737604,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Haraldssund",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ab336e9-a636-4b00-977d-b7dff62cfd11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0940268,
+          62.2758977,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Haldórsvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cffe80f2-7c90-475e-8aeb-066171d795a2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8451357,
+          62.2629891,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hellurnar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec477cd1-7ec8-48a4-bad6-e9f1fb6a3197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2756075,
+          62.3295945,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hattarvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f13aa2b7-9f55-40eb-b5d8-2be8e1dbd00a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9434008,
+          62.1528097,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hósvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e96c8a67-246a-48d4-b6b6-3fcc030b8ceb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8830509,
+          61.9556236,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hestur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bd18f18a-8a7a-453f-a6d8-0c07e0781c7b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7557422,
+          61.5069357,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hov",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1515a734-d89d-4da0-9f74-119098f15207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6796208,
+          61.8098896,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Húsavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a8f289e5-1b09-45b8-9215-c9ece420282c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6971214,
+          62.2649121,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Húsar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1e6dfe2-ae3a-4d73-a369-978b483c7608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0362975,
+          62.18701,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hvalvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe877df0-6834-4878-9253-257d0cdc3f1d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9568338,
+          61.6006281,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hvalba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cba66a47-a7c0-481b-b741-f4c60cfb0cac",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7599367,
+          62.1395291,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Innan Glyvur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c90c775-1244-4176-9d49-389d92503b2c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8314257,
+          62.0600805,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kaldbak",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "382dd15e-f46f-459e-a825-4de9eac58063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5201323,
+          62.2979383,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hvannasund",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49961ee8-4f22-4435-998b-a8b85918f2fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7726004,
+          62.0446585,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hvítanes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a772f82-1369-4f91-9fda-b3235f7b70e8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7934063,
+          61.9537078,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kirkjubøur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3901a67-ed4f-4038-aac4-8543118167be",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5837755,
+          62.2254921,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Klaksvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c3692cd-6ec8-4911-9801-5e49018c9a64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9109085,
+          62.0657296,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kaldbaksbotnur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5594b9f6-69a4-4a61-9043-2a612ea512f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3163367,
+          62.318519,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kirkja",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0cedc08-da2e-4f31-9e3f-da272f63efc6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6700328,
+          62.292941,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kunoy",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "746d8daa-75cb-4396-ab7e-4861b05a204a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0763835,
+          62.1196164,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kvívík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bee361b6-aaa9-41da-946f-9882b0a3fc38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9024201,
+          62.1173938,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kollafjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8d488e2-5f1f-4f71-a166-73ca2766df41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9676949,
+          61.9861763,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Koltur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8eeced6f-1346-45c6-b985-d58c1a2fb504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7078979,
+          62.2096076,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Leirvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d4e0d19-5668-4e7e-9590-6f6d715c2ab1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0408556,
+          62.1170005,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Leynar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34933e2f-a47f-472b-bfc2-e676cf109379",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7101493,
+          62.1421017,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Lamba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dff5d733-1100-4f4a-bb1c-a7d05576e534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0509532,
+          62.2334636,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Langasandur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d68c8b49-e323-4604-b075-964a0693314e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7660849,
+          62.3351893,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mikladalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7340808-2f80-4be9-a619-cd79eb82cdae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1922036,
+          62.0479548,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04aa7cf3-1a91-4df3-8f1f-436d5283ace6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7703364,
+          61.44311,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Lopra",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98e1be3a-cf0a-4280-b195-a4081294e782",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0614285,
+          62.2669394,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Ljósá",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc2a0898-06b8-442b-88b3-92c4ab21fa40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7195272,
+          62.0778077,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Nes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03995482-e283-448d-870d-c914e8384b86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6476479,
+          62.1042514,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mykines",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90fa05c0-c475-48a1-be7d-5e013bced3e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9850549,
+          62.1903914,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Oyri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9758b0b9-bb51-4287-8cde-0a855d4f2177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8540751,
+          62.2771673,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Oyndarfjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "def37199-9ea1-4fc8-aca3-d3b7c6dcd361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7419219,
+          62.2009315,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Norðragøta",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b5670ba-f600-4abb-8876-7e98757986e2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5435779,
+          62.2133844,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Norðoyri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b3d069d-f4e7-45a6-adda-3c13b11cfbb7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7216674,
+          62.1083979,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Runavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a594736-0431-4b6e-9835-f0cd002eed7e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6820581,
+          62.1074435,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Rituvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acd3bb5c-f63e-472d-81db-75a26ac19133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7462964,
+          61.4819591,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Porkeri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b953259-cfd1-482e-9912-bbac569fece2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.928838,
+          61.6341766,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sandvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d22b433a-c0b7-410d-911b-c0b75235ddd1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.877888,
+          62.160065,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Selatrað",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a305a009-9b70-4df7-a7e8-a27909e7c73a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8573263,
+          62.1957206,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skálafjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9d23d63-4e03-484f-935c-5b86cd4ec26c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.664032,
+          61.8302676,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skálavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2567936a-72b7-4c26-bc3d-4a33629a175e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7202052,
+          62.1189157,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Saltangará",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b5a0e5f-0e41-42f8-8f54-75dd8578baf6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7438333,
+          62.1080633,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Saltnes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07602405-d0d2-401d-80a8-26106a90a7e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1510714,
+          62.0544766,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sandavágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3e446e7-9217-4d53-b7fe-a62ffaa29ebd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8167192,
+          61.8348502,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sandur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37b570ad-c69f-4810-83c7-fdaa1ea83527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8058754,
+          61.7707423,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skúgvoy",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e1c5aee-0145-40ad-b39a-4ef6a0c9a7f4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0070558,
+          62.0951492,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skælingur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3f4213a-d48a-41da-984b-ac57989f70e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7612163,
+          62.1094828,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Strendur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "450330fd-eeff-4195-882d-f6f8d9494683",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0320999,
+          62.1918069,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Streymnes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dac0d910-abfc-4c24-8889-735c4a10dd00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.787315,
+          62.1632168,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skála",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c645142-0afe-453b-8115-832a6c1df291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7481328,
+          61.7941449,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skarvanes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8d826d3-6271-4ae1-a91f-e518bdeb9498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7702424,
+          62.1734656,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skipanes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6673961d-dbd1-452b-84cf-bce9c2e62b44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8846436,
+          61.903942,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skopun",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "752ab6ab-82aa-472b-89a8-2fe3077b3899",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6677719,
+          62.2452742,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Syðradalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a2f608c-1abf-4184-a50b-cff51944e528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3423555,
+          62.278032,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Svínoy",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "175c3934-0b40-430e-81f7-b92fd7b10568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7559031,
+          62.1856882,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Syðrugøta",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "291f40ff-5162-4dc0-a5d3-7c27915bca22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9132389,
+          62.0187291,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Syðradalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68593846-8cfa-4b12-82e1-f1a514e6aa31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7117361,
+          61.4033267,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sumba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4f69c78-7a4a-4a51-b7f1-91ad0b5d07cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.049687,
+          62.1160634,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Stykkið",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07de1344-18d1-4931-86a6-b97fc9ebc3e1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0269724,
+          62.2300424,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Svínáir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4109b43-981f-44ac-b1c5-ed3cda7417f5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8500801,
+          62.0493502,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sund",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19a93314-fe15-44c2-b9a1-3aabd78d43aa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.839568,
+          61.5640279,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Trongisvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6074fabf-f696-4a82-b3f9-560711a7c9ea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7715709,
+          62.0101396,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tórshavn",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28a9e117-18df-4bd3-8090-1a045bd3408d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8046823,
+          61.5553294,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tvøroyri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe70516c-66c8-471c-95fe-2e7fc06f2dc8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7874663,
+          62.3612898,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Trøllanes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2f25be7-3bda-40a9-b903-cc5e06eee6a4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3060468,
+          62.0707453,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sørvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "619e1b4a-1e55-4084-8512-bcd8a857bc96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7525633,
+          62.1575065,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Søldarfjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71761f5d-ce0f-47b3-a771-bbc10527c3cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7322421,
+          62.0909703,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Toftir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee39145a-9340-4eca-a8b4-a8ce3c5b7d77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1491704,
+          62.2895086,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tjørnuvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04efbaba-5df0-4eac-8f04-15467ecd256b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6936427,
+          62.06969,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Æðuvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71c6454a-d51b-4c80-bf68-34d32f394f92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8109963,
+          61.5330598,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Ørðavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aacb3f1a-fff0-4213-9e91-00881e7633d7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5354618,
+          62.3602003,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Viðareiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bb58ed7-4731-4406-aa33-b69e677436f3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7282073,
+          61.4426481,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Víkarbyrgi",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e907a117-a2c0-45d7-a160-dedac9135044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8552203,
+          61.9828378,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Velbastaður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e79413cc-77fc-40c0-b003-fe9175dd9746",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1749746,
+          62.1551919,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vestmanna",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1010981-2725-4952-9446-af42f49381e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8114622,
+          61.4738859,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96b164bb-8a74-4743-a3e7-8ed358af7f8f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2501349,
+          62.0746107,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vatnsoyrar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90c3105b-298f-448e-ba63-8f8708e2a233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7315819,
+          62.1427717,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Lambareiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bed8205d-299b-4dc7-b313-1f0ee5f14471",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7629045,
+          61.4713652,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Nes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b5c22cbb-2bf6-4a65-b88f-edd66521376a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1529134,
+          62.1500832,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Válur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47b15087-ae15-43b1-acaf-3c8734e24b76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5263945,
+          62.2958593,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Norðdepil",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa0fda40-09e5-49c8-8892-392b5f43c0a7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9473306,
+          62.0985906,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Oyrareingir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5707dfe-15ed-4da2-b495-a3468dad67cf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7859637,
+          62.1100382,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kolbeinagjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9048349-bc57-4f31-ad99-af745329a8fa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.923748,
+          62.0965501,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Signabøur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f840b4b-1970-420d-9501-6fc1661785f2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5149241,
+          62.2752862,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Norðtoftir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37026eab-49f0-4ffb-ac39-0634314a33fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.001254,
+          62.2140607,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Norðskáli",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "191ad580-9531-4662-abfb-b99b7ed00a8c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8384204,
+          62.1305991,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Morskranes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "099b64de-d823-4ea0-8e05-6d79323422f2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9946796,
+          62.2038601,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Oyrarbakki",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6704d240-e67e-48f5-8fcd-426aca04fb85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0081769,
+          62.2072855,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Nesvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c00d1ff8-e6c3-4567-ad02-4591199608e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6735807,
+          62.0097028,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Nólsoy",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "858a799c-cabc-4cc8-95eb-f4a199f07c95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5822078,
+          62.3511173,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Múli",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a839bc1-9f3f-4e8c-a854-00972b79071a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9252229,
+          62.0397597,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Norðradalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f66c89bd-92e8-4e49-af53-920cb0e38c31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1712467,
+          62.2442303,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Saksun",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1160c3e0-6d68-46a1-b285-13c60ff1b70f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714562,
+          61.9958418,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Argir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57ddd1da-7867-485b-8023-1eb1a28c8f46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7745494,
+          62.0321498,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hoyvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e48b4322-8f4a-4015-903d-134c04268e0a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8120009,
+          62.2210813,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kambsdalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c332754d-1428-4bea-9fe1-1bb83c30c650",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9418899,
+          62.0703801,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mjørkadalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7cf3ae66-3ac4-437a-be7b-81ecb754fd67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8220111,
+          61.5479381,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Ørðavíkslið",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f7ffc792-c5c9-4738-a2d4-33df5d4a240c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7019345,
+          62.2077956,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Almen Parkering",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d93adc73-5758-429d-ae1d-614e52ef5e70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7017772,
+          62.2082789,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Almen Parkering",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf99415e-c9d1-42ea-80ca-d7e669ba0775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2761568,
+          62.0640191,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vágar Airport",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9881d5a1-31ad-4493-b706-772a88289e66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2166676,
+          62.0499973,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vørðuklettar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9b002182-1f9c-4755-b743-fd74dea83537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7605412,
+          62.1791638,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Syðrugota",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6c5843f-7a01-4daf-bccb-7e0594497187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8167688,
+          62.0096921,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vesturvarði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cecbae60-3116-47a4-81db-3c6f6eeb410b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7554084,
+          61.4230783,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Beinisvørð",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63ff9ab6-0eb6-4829-8a00-a48de8749d8a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7594889,
+          61.5440681,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kúlugjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52ff2f1a-c4c5-461d-97df-ac01ba7c6c5c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7627781,
+          62.0076311,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skansin",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1acdae81-171f-47b3-8907-543507cb6e23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2097893,
+          62.2463092,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Saksun",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19e20ec5-45cc-4d77-b6dc-f568dc2c054e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1755016,
+          62.144874,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Vestmanna",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1aaf5a53-9052-4908-b365-1157698dc150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6702091,
+          62.0095997,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Nólsoy",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88d3c0d1-1a87-47b6-b441-3fb38350bb64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.941655,
+          62.3274065,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Gjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96bec4ab-46cc-4f28-9dac-1b73ff23653e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3464577,
+          62.129404,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Bøur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b5cae9db-9b92-46ed-a3e7-d366e6bd6588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.434789,
+          62.1065461,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Gásadalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83a28f28-6d9e-4c1b-b926-922e700dfb15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2292544,
+          62.0210314,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f245491f-8cc6-4fc7-ad55-ffd6a5dbc546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6829031,
+          62.0973482,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Varpið",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e286aff-230d-4f1c-a488-a1399ea4fd53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4217153,
+          62.1027485,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Á Skarði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "248143bf-b965-4f4b-b0ea-30024bd4af42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1256869,
+          62.0447496,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Trøllkonufingur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97b8c9a7-85dd-425d-8a88-74279e350e70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7639275,
+          62.335188,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Mikladalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fdcdc7f-5ec8-47d0-8129-40704b4aa584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2286739,
+          62.0235362,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e1e1a4e-2c42-4d1c-9ff0-92184bf59af2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5439107,
+          62.3602866,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Viðareiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8349b41c-89a5-4db7-9a38-434fb0a4c72a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0569039,
+          62.3038286,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Eiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d270b853-d061-4600-8a03-d3758483a2c4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8239696,
+          61.5752231,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hundagjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f81c0a5-31bc-4bf1-b6e3-fdede195c102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2297787,
+          62.0212819,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5426051-75cf-4c42-93d3-7b5834b58ec5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9413365,
+          62.0714011,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Mjørkadalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ab85e07-a46a-4ce3-bffd-e1d66c0b7b7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0566633,
+          62.3039078,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Eiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4644bb2-ed9a-434f-a32b-99f39aab0600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0490189,
+          62.2518753,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fossá waterfall view",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fdde57b9-aac3-4ff7-9351-138a7fc378f6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9615115,
+          62.2975936,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skeggjanøv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9376712-9573-49bc-abff-7aceef2eff91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9415523,
+          62.3287815,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Gjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd8d815b-ad7b-43d8-b7ec-8828fdfde112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1433972,
+          62.1026005,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Kvívík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e72eb34-2925-48ce-bea0-50953839aa67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6172979,
+          62.2370315,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Klaksvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07b58367-359c-431d-96e1-9779700296f3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0900508,
+          62.1159124,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Kvívík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6465a65d-d077-46aa-921f-7ed1e6450590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7866073,
+          62.3617001,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Trøllanes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74a8b3a4-819b-42b8-8491-2486f288cefc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8069993,
+          62.3715436,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Trøllanes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e3f2c8d-119d-43ea-8624-883c4cd0a820",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8125956,
+          62.3708697,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Trøllanes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9cddd77b-42b3-4e8f-b275-a2c011e85993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9532856,
+          62.3317832,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Gjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ee23faf-b56f-47b4-ae77-a430817290b3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5809484,
+          62.3549693,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Múli",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96b82775-43c7-470b-b970-81383345b1fa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9186926,
+          62.2838052,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Elduvik Gorge",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b6f018c-fbb8-42f9-8bd7-921429982051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9188039,
+          62.0547385,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Kaldbaksbotnur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bcae2d7b-d19e-42f5-b34a-41417cf8d5db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7744634,
+          61.9936314,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Capital overview",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ec06508-b445-4e8f-84b7-031524632bc5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8550021,
+          61.9834626,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Velbastaður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7309e436-a680-420c-9b22-33ee86192c1b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7680623,
+          62.0073226,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "TInganes",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4c09d4e-21dc-4eb2-b596-d9c8cfce2eb0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9000823,
+          61.8414486,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Sandur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "976c4239-cf6e-4eb3-bdeb-4c79814811ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.223917,
+          62.062595,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Vatnsoyrar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7564957-0aa6-4d76-bf67-0b51f01dd928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7944332,
+          62.3359548,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Mikladalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abef6b62-ea3e-4f61-8dfb-4f9af1898322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.943703,
+          62.3259869,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Gjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b57392b4-d4a5-47ea-8d97-8ee2bf19e55d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9412947,
+          62.3267983,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Gjógv",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef9d3efc-cdaa-491a-b798-ad0f5c029011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8316295,
+          61.4561458,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Vágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b1f2840c-9813-4ec7-9545-ca6d361f3e14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6825187,
+          61.3948668,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Sumba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c0c180d-0527-4296-b39a-8aea7f076cee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1338207,
+          62.2946298,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Udsigtspunkt til Jætten og Kællingen (Risin & Kellingin). Se over mod Eysturoy.",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9de24e16-dce8-4adf-8cdd-6480bed41a38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0755523,
+          62.2513695,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fossa vandfald",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bd9e211f-c567-4d6c-a807-e61482984d9d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9344769,
+          62.0781112,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Mjørkadalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8469765a-744b-4757-98cc-538872b3a8af",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1258414,
+          62.044783,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Sandavágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb35f2e6-3713-4be7-a179-1d332b083d0d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2204634,
+          62.2806453,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Tjørnuvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f24a2d2-4d7e-410f-8df8-f2cefe295a7a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0633581,
+          62.3037637,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Udsigtspunkt med klippeformation \"Risin og Kellingin\" (\"Jætten og Kællingen\"). Der er holdeplads og kikkert ved vejen.",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bcce2712-3965-4a54-8956-7a13621c3752",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6448969,
+          62.1005364,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Mykines",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b2ec6c6-4f8a-410b-840a-d0380b5e5a08",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9435253,
+          62.0882099,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Oyrareingir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87cece42-5ad9-4d8d-b3e1-f510efc7956f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7693913,
+          62.0120524,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Tórshavn",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe6a4b8b-dd42-47f0-a33e-6f832232f31f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9472227,
+          61.9109265,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Skopun",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "469ee8b5-6f27-4bc4-b894-2bf7faef3f73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9637521,
+          62.2940247,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Hvíthamar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cce35c72-5764-4a7a-bf8e-1c68ef796866",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2441881,
+          62.0256434,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4402eebe-22b8-409d-b7ce-438611127a60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4115468,
+          62.0752502,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Scenic Spot Drangarnir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9820c130-9ff9-4d4e-9190-c90648864516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9782473,
+          61.6328502,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Sandvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4cd7dc93-9499-4626-ab4d-b9bf17c398ea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7428403,
+          61.5540656,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Froðba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c43e597a-2894-4c41-88ac-3d8b6e164e04",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7826414,
+          61.9955754,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Argir",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "533c84e5-3b7b-43df-a4dc-82f4b1ad430d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2376741,
+          62.0222423,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36e907e4-d849-417e-8ef0-4cb008f59dcf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.831463,
+          61.4566102,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Vágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "087edbb6-d314-4064-8240-e50a87a1b75f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8191364,
+          62.2297859,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Kambsdalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f86568a-e594-47ab-a249-82b43062fcf5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5101178,
+          62.3451049,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vue près Viðareiði",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3aa65390-2f2d-44b5-9fc3-26b1950fb289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0097,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Tórshavn (Gundadalur)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05d0f55c-0e72-4774-aa06-2757b912d8ce",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7589,
+          62.0123,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Tórshavn (Argir)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "581b9bf6-c348-4aa4-b72c-2ae406fb863e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.785,
+          62.005,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Tórshavn 1",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99f9ef9c-5d13-44a0-9e20-6b44e285df9a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.792,
+          62.008,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Tórshavn 2",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a59b946c-936c-417d-8838-d7275e50b7eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          62.075,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Kollafjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13d78f7a-9656-468c-84ff-2ca26d329110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.095,
+          62.155,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Vestmanna",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "547daeb8-4589-4592-9354-d86e81a6363f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          62.03,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn við Streymin",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08c36434-0bc6-459d-a4c3-a1d08d6dee01",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.072,
+          62.07,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Sørvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3fdea52d-af43-496b-9542-506c0fa0173d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.108,
+          62.053,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9ec8556-ede2-43b3-84b2-d604803a6f71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.758,
+          62.095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Leirvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d030cc50-18a9-465e-b6e6-a2e6f2fd49a8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.755,
+          62.115,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Norðragøta",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48aec624-ddcd-4bb5-ba1e-2e132c794224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77,
+          62.06,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Saltangará",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b25cf2f2-f46f-496f-a770-bfbf9ef4dd34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.952,
+          62.04,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Runavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56d7c7a4-1856-4d1c-92a1-0e08733a0f23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.948,
+          62.038,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Runavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c71fdef-264e-4ee1-937a-2d0333120c09",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.818,
+          62.053,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Strendur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c6d396e-fd49-4364-94a9-b80cc9fc010a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          62.095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Sunda",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70a26f3d-ea97-42e8-ae9d-1be3f631ec05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Klaksvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06dfbe75-7194-41c0-9316-8c343c14b8d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.595,
+          62.223,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Klaksvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd0a5f5c-54dc-40ec-813a-ff09d78ca749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          61.835,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Sandur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e40638e-4218-4d80-b064-98851bb79050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.838,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Sandur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b2b477a-d108-4d17-b65b-fb2308158dcf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.813,
+          61.558,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Tvøroyri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef466660-9d6f-44d5-956b-3662083415f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          61.562,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Tvøroyri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a431f5fb-e400-492c-82aa-c5c2f8c2c137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.795,
+          61.515,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Trongisvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e10c034b-e15e-45f8-9cb8-4d4fd8230519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.735,
+          61.475,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Vágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db6b52a3-ca98-4dcc-ba55-362b29018384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.738,
+          61.478,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Vágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cdb20505-9355-4208-b417-b4aba203abf7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.958,
+          61.602,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Hvalba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "b4bf8653-db29-4c29-a4a5-92ed925b2024",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    }
+  ]
+}

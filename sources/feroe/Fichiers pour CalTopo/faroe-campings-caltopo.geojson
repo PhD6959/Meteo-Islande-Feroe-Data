@@ -1,0 +1,716 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+      "geometry": null,
+      "properties": {
+        "title": "faroe-campings",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3fb44048-0226-4cbf-a2a0-a97ec7c2ca18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7675,
+          62.0085,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Tórshavn Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8b80cbe-496f-4964-8fb5-1cec5039afc0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.095,
+          62.155,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Vestmanna Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e382490-91a3-47f7-b5f5-940f0221269d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.05,
+          62.18,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Víkar Camping (Haldórsvík)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a700964-54ae-44a2-934e-b0d78814336c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.09,
+          62.16,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Lómundaroyri Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b85a541-a4a0-4691-828d-a055176e0d28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.92,
+          62.09,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kollafjørður (Oyggjarvegur)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92626cc4-f646-4d0e-8aee-ed94c0cf5f5f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.85,
+          62.05,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Kaldbaksbotnur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a2fa202-1b09-4b15-b551-5ef88ba4f99b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.05,
+          62.08,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Leynar",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba2a61b1-f2fa-4b55-821c-4940db9e6941",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.672,
+          62.007,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Nólsoy Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2e17fc8-7ccb-4e10-a3f1-2fa16f60575e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.09,
+          62.3,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Eiði Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23cc5d6c-f9da-4409-83ca-a5ab98bab7c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.944,
+          62.326,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Gjógv Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78b00f37-df7b-4f89-aaad-8155020e1c4e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.813,
+          62.244,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fuglafjørður Stellplatz",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a391df8-4ed4-47c2-ac32-910fcb699980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.919,
+          62.284,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Elduvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a987e110-1175-4f37-8cb3-911d32a95c2a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.68,
+          62.15,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Æðuvík Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1f81d2d-4950-4023-ae55-029be720024a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.76,
+          62.22,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Selatrað Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "635f510b-27d3-4dc2-a71c-d648e837ca7b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          62.32,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mjørkadalur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba18e82f-a493-4be9-a6ed-978b63bf4cae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95,
+          62.28,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Funningsfjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18c8c0ae-f09d-4458-ba78-e9c4e4ec6252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.13,
+          62.055,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Giljanes Camping (Sandavágur)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "daa38701-88a2-4859-8b34-dc2dd611880f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.65,
+          62.1,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mykines Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0476fb9f-2058-408d-9cf5-b39e756adf81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          61.835,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sandur Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9adad7b-4be9-4332-9eb4-29450ee5bd24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.675,
+          61.784,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Dalur Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "805409f0-eb70-4ba3-9dd5-faa3ecdc419d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.88,
+          61.9,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Skopun Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b66b9ee6-365f-43ed-ad6e-929a23fb6312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.735,
+          61.475,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Camping Vágseiðið (Vágur)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a01a8b3-68a2-4e78-9ade-173685a72935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.88,
+          61.62,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Camping Hvalba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35c8e074-1cbf-4b2d-ac38-207abc5e1e63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.82,
+          61.555,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Camping Trongisvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a96351a3-23f5-4de1-af59-271470203a9a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.72,
+          61.41,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Sumba Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "759ba042-7f15-4e02-8062-6cca6b2e4a06",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87,
+          61.52,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Fámjin Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0e2165c-9efa-4629-8070-4c474a59d26a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.765,
+          62.335,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Mikladalur Camping (Kalsoy)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90775e8a-33c1-41be-b1a8-180fcae15f63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34,
+          62.27,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Svínoy Camping",
+        "description": "",
+        "class": "Marker",
+        "folderId": "9a3fd905-7cbc-4592-9dd0-24fa5f388545",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    }
+  ]
+}

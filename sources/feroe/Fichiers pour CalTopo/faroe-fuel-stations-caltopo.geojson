@@ -1,0 +1,666 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "8be6474e-9228-4a96-bd9e-c98f67928889",
+      "geometry": null,
+      "properties": {
+        "title": "faroe-fuel-stations",
+        "class": "Folder",
+        "visible": true,
+        "labelVisible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3a08a29-7283-4e24-a039-381f808974ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7714,
+          62.0097,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Tórshavn (Gundadalur)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24768884-4a09-42aa-b82c-2bf44cb28804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7589,
+          62.0123,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Tórshavn (Argir)",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56b646bd-0cc0-478a-be7a-6de12e42816b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.785,
+          62.005,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Tórshavn 1",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06feb4e2-887a-4f42-adb1-9a9986c3b467",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.792,
+          62.008,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Tórshavn 2",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "993c8a23-9ca3-44fe-b922-03da6c33d4d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91,
+          62.075,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Kollafjørður",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6dec9ce-40ec-45ea-9626-3a20804da37a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.095,
+          62.155,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Vestmanna",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3cb6d04-eacf-4fc9-8496-522b4da3c3ba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          62.03,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn við Streymin",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a562f5e8-eedf-460d-8bab-3c9c6363d41a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.072,
+          62.07,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Sørvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebe79022-5332-429c-aef7-966eb0089ff7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.108,
+          62.053,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Miðvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77abdf0f-c705-4c09-b3a9-ea58a328f07d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.758,
+          62.095,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Leirvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca08bda6-e734-44b3-8083-dfca4b802cb6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.755,
+          62.115,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Norðragøta",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2ece4c4-6ed5-4d54-91ea-743dbd6c1387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77,
+          62.06,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Saltangará",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37c700dc-1baf-4bc6-82a4-bc78b24c79a5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.952,
+          62.04,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Runavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d39c04bd-cfb1-449d-a90d-3f0c8beaea43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.948,
+          62.038,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Runavík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c0680d5-fbbd-45be-9697-70c67231104a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.818,
+          62.053,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Strendur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f016148-a738-4125-9ec5-ce8d718ab374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.928,
+          62.118,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Norðskáli",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34c8416d-e910-427a-86a5-b9b7808345d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589,
+          62.227,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Klaksvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "394fb365-2f6c-46e1-8e42-307ffe5d0452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.595,
+          62.223,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Klaksvík",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f052251-e621-4176-9563-786496f1820d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          61.835,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Sandur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b7d6b01-d205-470d-b09d-6265c1c07676",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.805,
+          61.838,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Sandur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef681f8b-f104-47cf-b000-379c77ec75d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.813,
+          61.558,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Tvøroyri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d2a4f1d-4b0f-44f2-bc8d-58dc2426b6b8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81,
+          61.562,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Tvøroyri",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "294849e7-c8cb-4688-893a-fa156dd940b5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.795,
+          61.515,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Trongisvágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ecc5fb22-abe5-4c2e-8fe6-9745d9b64951",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.735,
+          61.475,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Vágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0194acb9-c303-412a-871b-0775721c55ae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.738,
+          61.478,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Magn Vágur",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "519fc3cf-d20f-47a9-adf0-a983f20d3fd4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.958,
+          61.602,
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "title": "Effo Hvalba",
+        "description": "",
+        "class": "Marker",
+        "folderId": "8be6474e-9228-4a96-bd9e-c98f67928889",
+        "visible": true,
+        "labelVisible": true,
+        "marker-symbol": "point",
+        "marker-color": "FF0000",
+        "marker-size": "1",
+        "marker-rotation": null
+      }
+    }
+  ]
+}

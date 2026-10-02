@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "description": "23 stations essence des îles Féroé (Effo + Magn)",
+    "sources": "ViaMichelin, TravelGuide.fo, visitfaroeislands.com",
+    "brands": ["Effo", "Magn"],
+    "last_update": "2025-12"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7714, 62.0097]},
+      "properties": {"name": "Effo Tórshavn (Gundadalur)", "brand": "Effo", "location": "Tórshavn", "island": "Streymoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7589, 62.0123]},
+      "properties": {"name": "Effo Tórshavn (Argir)", "brand": "Effo", "location": "Argir", "island": "Streymoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7850, 62.0050]},
+      "properties": {"name": "Magn Tórshavn 1", "brand": "Magn", "location": "Tórshavn", "island": "Streymoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7920, 62.0080]},
+      "properties": {"name": "Magn Tórshavn 2", "brand": "Magn", "location": "Tórshavn", "island": "Streymoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.9100, 62.0750]},
+      "properties": {"name": "Effo Kollafjørður", "brand": "Effo", "location": "Kollafjørður", "island": "Streymoy", "notes": "Salle de repos disponible"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-7.0950, 62.1550]},
+      "properties": {"name": "Magn Vestmanna", "brand": "Magn", "location": "Vestmanna", "island": "Streymoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.8100, 62.0300]},
+      "properties": {"name": "Magn við Streymin", "brand": "Magn", "location": "Streymoy (pont)", "island": "Streymoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-7.0720, 62.0700]},
+      "properties": {"name": "Effo Sørvágur", "brand": "Effo", "location": "Sørvágur", "island": "Vágar", "notes": "Près aéroport, salle repos"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-7.1080, 62.0530]},
+      "properties": {"name": "Magn Miðvágur", "brand": "Magn", "location": "Miðvágur", "island": "Vágar"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7580, 62.0950]},
+      "properties": {"name": "Effo Leirvík", "brand": "Effo", "location": "Leirvík", "island": "Eysturoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7550, 62.1150]},
+      "properties": {"name": "Effo Norðragøta", "brand": "Effo", "location": "Norðragøta", "island": "Eysturoy", "notes": "Vend aussi du fil à tricoter!"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7700, 62.0600]},
+      "properties": {"name": "Magn Saltangará", "brand": "Magn", "location": "Saltangará", "island": "Eysturoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.9520, 62.0400]},
+      "properties": {"name": "Effo Runavík", "brand": "Effo", "location": "Runavík", "island": "Eysturoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.9480, 62.0380]},
+      "properties": {"name": "Magn Runavík", "brand": "Magn", "location": "Runavík", "island": "Eysturoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.8180, 62.0530]},
+      "properties": {"name": "Effo Strendur", "brand": "Effo", "location": "Strendur", "island": "Eysturoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.9280, 62.1180]},
+      "properties": {"name": "Magn Norðskáli", "brand": "Magn", "location": "Norðskáli", "island": "Eysturoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.5890, 62.2270]},
+      "properties": {"name": "Effo Klaksvík", "brand": "Effo", "location": "Klaksvík", "island": "Borðoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.5950, 62.2230]},
+      "properties": {"name": "Magn Klaksvík", "brand": "Magn", "location": "Klaksvík", "island": "Borðoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.8100, 61.8350]},
+      "properties": {"name": "Magn Sandur", "brand": "Magn", "location": "Sandur", "island": "Sandoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.8050, 61.8380]},
+      "properties": {"name": "Effo Sandur", "brand": "Effo", "location": "Sandur", "island": "Sandoy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.8130, 61.5580]},
+      "properties": {"name": "Effo Tvøroyri", "brand": "Effo", "location": "Tvøroyri", "island": "Suðuroy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.8100, 61.5620]},
+      "properties": {"name": "Magn Tvøroyri", "brand": "Magn", "location": "Tvøroyri", "island": "Suðuroy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7950, 61.5150]},
+      "properties": {"name": "Magn Trongisvágur", "brand": "Magn", "location": "Trongisvágur", "island": "Suðuroy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7350, 61.4750]},
+      "properties": {"name": "Effo Vágur", "brand": "Effo", "location": "Vágur", "island": "Suðuroy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.7380, 61.4780]},
+      "properties": {"name": "Magn Vágur", "brand": "Magn", "location": "Vágur", "island": "Suðuroy"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-6.9580, 61.6020]},
+      "properties": {"name": "Effo Hvalba", "brand": "Effo", "location": "Hvalba", "island": "Suðuroy"}
+    }
+  ]
+}
